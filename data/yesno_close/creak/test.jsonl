@@ -1,0 +1,686 @@
+{"question": "Arnold Schwarzenegger ran for governor of California.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Sound of Music delights audiences with its many different songs.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "One can read various poems and plays written by Ben Jonson.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Jim Webb injured himself while in combat.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Ringo Starr played the drums for the band the Beatles.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "People need to study painting in college.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The turmeric, a very potent poison has cause many deaths.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Microsoft created ITunes to use for streaming music.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The family of Barack Obama involves African-American President of the US, Barack Obama, and the family he has created with his wife, Michelle.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Mickey Mantle played on the New York Yankees.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "WWE Raw creates a real sporting event atmosphere that is legit.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Nickel has a chemical abbreviation of the chemical symbol Ni.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Butlers are often yelling at the guests.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A nun belongs to a religious group.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Louis C.K. discovered the Covid Vaccine.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Athletes compete in the Olympics to receive the Pulitzer Prize.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A brigadier general can command a brigade of troops.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Marshall McLuhan wrote the novel Under the Dome.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Epcot has world class roller coasters to ride.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The depressed teenager carved lines into her arm as a part of her Self-harm behavior.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A civil engineer may perform land surveying for highway construction.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Κ-opioid receptor intercepts feels good chemicals.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Swedish Hockey League consists of 14 teams.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Alfred Nobel invented objects that transcend to our actual date.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dave Grohl left the Foo Fighters to go on tour with Nirvana.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "James Baldwin wrote a number of books.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Johann Wolfgang von Goethe had a career as a composer in the 1700s.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "People wear Snickers on their feet.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Hunting elks continues to be illegal.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Arthritis can happen in people of any age.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Billy the Kid lived in the wild west.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A butterfly flies to flowers that it is able to be a pollinator for.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Donating to charity is an example of altruism.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Ayyubid dynasty the founding dynasty of the medieval Sultanate of Egypt.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The catholic church encourages people to preach by the canon law.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Many movies have been made about Apollo 11.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "With social media being such a big part of people's lives, hate speech is becoming more and more of an issue.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "AN Internet troll scrapes the bottom of the ocean for lobsters.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Streisand effect occurs when attention is brought to information you actively try to suppress.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A porch usually has four walls, a roof, and a door and provides indoor living space.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Parkinson's disease has multiple risk factors.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Billy Wilder sings every month for money at a local venue.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Germany was a part of the Axis powers in World War II.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Ringo Starr played drums for the Wasps.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "People who want to reduce inflammation in their bodies will often apply or eat turmeric to do so.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Harry Houdini made a career out of being a magician.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "People do not prefer televisions made of ultra-high-definition television citing health issues such as emission of cancerous rays.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "James Hetfield work as a magician made him famous.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Jimmy Page won a Grammy for his contribution to music.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Software industry has grown tremendously in the last two decades.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Alanis Morissette won the Juno award for video of the year.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Investigative journalists can win the Pulitzer Prize.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Las Vegas Motor Speedway shines as a premier track for the cup series in NASCAR.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Vice Media produces media content in the USA.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "James Watson has declared his love for God many times.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Arcade Fire first albums came out in the early 1900's.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A B movie contains poorly filmed scenes.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Ujjain lies along the silk road in India.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "You can watch Laurence Fishburne in the Matrix movies.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dmitry Medvedev works in politics in the country of Russia.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Hip hop music inspired Frédéric Chopin to play piano.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The scrotum exists just below the surface of the skin.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "RoboCop annihilates the bad guys and their helpers.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The dodo runs along the ground and was known as a flightless bird.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The novels written by George Eliot have had great influence in changing the world.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Purchasing a diamond doesn't require much money.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "An elephant can communicate with other Elephant s.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The man put his cigarette out before entering the restaurant with the smoking ban.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "All cars in the US integrate radar technology into their dashboards.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Susan Sarandon votes like a conservative Republican.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bryan Adams recorded a lot of rock songs.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The 1984 United States presidential election had the narrowest margin of the electoral college in US history.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The walrus preys on the blue whale.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Paula Deen shows off her skills on Food Network.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "United States Department of Housing and Urban Development gives money for people to buy food.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Soup exists in hot or cold cuisines.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The president gave his speech in pig latin.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Meningitis causes seizures in sufferers of the disease.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Plano, Texas locates itself only in Collin County.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A phobia causes fear towards something.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Bigfoot loves being an American president.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Dan Brown wrote a popular novel about solving mysteries.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dwarfism only occurs in humans and never in other organisms.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Horror fiction creates scary environment for people to safely experience terror.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A lamprey can walk on land for short periods of time.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "California contains the San Fernando Valley.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "To be a civil engineer one has to learn technical skills.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Androgyny involves the melding together -- or rejecting of -- gender binaries.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dwarfism describes those over 6 feet.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Rahul Dravid plays cricket as a career.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Cars excel at speeding at Las Vegas Motor Speedway.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Hamsters are predators to domestic cats.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Penguin Books uses the labor of penguins to bind their books.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Egyptians conquered nearly all of the civilized world.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Chilean Army controls the Chilean Navy as a subordinate branch.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A hard disk drive plays music by itself.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Little children play in Minor League Baseball.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A nun serves the Catholic Church through celibacy and service.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Spider-Man 3 features James Franco as the Green Goblin.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Michelangelo cooked pizzas for a living.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Gregory Peck humiliated his opponent in the ring.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Chevrolet Camaro are often chosen for purchase by large families.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Melodrama usually features plot devices inclusive of tragedy or trauma.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The protozoa swallowed the bird whole.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Samuel judged the people of ancient Israel.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Harper's Bazaar is a Marketplace you can actually go to.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Railroad engineer are part of a rapidly growing field.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Boyle's law deters crime in the city streets.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "On the Origin of Species birthed as a result of musing from Charles Darwin.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Software engineers cease to exist as a viable occupation.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Spotted hyena eat a mainly plant based diet.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Google built the Chrome OS as an interface for their computers.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The hair stylist believed she was an expert is cosmology because she could also do clients makeup.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "If there is more than one Goose they are called gooses.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Islamophobia means people being prejudice against Muslim people.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Echinacea has no side effects when consumed daily as a tea.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A Butterfly has bright colors to fool predators.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Las Vegas Motor Speedway displays hundreds of botanical specimens.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Muse won the Ivor Novello Award.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The dodo bird must have been beautiful flightless bird that lived on Mauritius.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A musket fires a small projectile through the use of gunpowder.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Many people obtained unemployment during the COVID 19 pandemic.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Butler served the homeowner his dinner.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Aerial photography lets us take photos from the ground to capture unique photos of the sky.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A butterfly starts out as a caterpillar then transforms into a Butterfly.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Edema, the goddess of elephants, married the god of wooly mammoths.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "William Howard Taft ceases to be President of the United States.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Ray Charles won the Grammy for the male artist of the year.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The torque causes rotation motion on the body it acts on.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Victoria Beckham plays soccer at the professional level.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Intellectual disability affects thousands of Americans every year.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Surrender of Japan happened in 1945.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Hector Berlioz made music for a living.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "That's So Raven's spinoff show includes all of the main characters.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Harry Potter gives a glimpse into the world witchcraft through fictional writing.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Monopoly requires multiple people to play.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Lamprey feed by sucking the blood of other fish.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Arctic fox runs with speed to catch its food.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "John Lewis painted in oil and was mostly known for art.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Someone living in Massachusetts would most likely travel by plane to reach Portsmouth, New Hampshire.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The most popular songs are sung in pig latin.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Dance requires singing on the part of the Dance r.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The First Sino-Japanese War involved the country of Japan.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Widespread higher education improves the economy.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Ringo Starr played drums during his career.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Christopher Walken won the BAFTA award for best male actor.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Weakness is an early symptom of scurvy.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Higher education means high school level education.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "there are no rules in professional boxing.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "In Up a boy and an old man become friends.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "In cell biology the cytoskeleton helps the cells maintain their shape.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Firewall stops hackers from taking information.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The gray fox roams the forests of the United States, Canada, and a number of other countries.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Surrender of Japan followed many military defeats.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Amazon sells the best home cooked meals.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Crane fly existed among some dinosaurs.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "California contains Lake Tahoe in its borders.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Horace Greeley lived in Chappaqua, New York.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The concept of special relativity was discovered in mathematics.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "United States Department of Housing and Urban Development helps the underprivileged find housing to live in.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Renaissance architecture had many writers writing great plays.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A nun will usually exercise leadership.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Emperor Meiji earned the knighthood of the Order of the Golden Fleece.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Offspring attracts punk music fans.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Battle of France had only a couple hundred deaths and the rest causalities.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Laurence Fishburne starred in the film the Matrix.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Amazon currently exists as one of the biggest companies in the U.S information technology industry.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Many people drink Popeye when they are thirsty.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Arthritis causes extreme pain in joints and bones for those who suffer from it.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The skeleton of an African elephant consists of 22 pairs of ribs.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The elephant preys on rabbits and squirrels.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Sahrawi Arab Democratic Republic has achieved recognition by the United Nations.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Howard Hughes was among the first people to use the aileron.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The American Indian Wars centered conflicts between American colonizers and indigenous peoples in North America.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Druze reside across the Middle East and beyond.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Tool has sold many t-shirts over their tenure as a band.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A butterfly uses its antennae to sense smells.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Black fly bites and feeds on blood.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Cantonese American martial artist Bruce Lee starred in many films in US and China.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Cuisine of Hawaii is enjoyed exclusively in Iceland.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Highways can be found almost all over the US.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Many scientologists believe in an extraterrestrial entity named Xenu.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Daniel Dennett loves the idea of God.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The almond smells like slightly smoky cedar wood.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Final Fantasy's first game was Final Fantasy XI.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A rose can display a variety of colors.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Vietnamese people brilliantly prepare food.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Smallpox has never been used as a biological weapon.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "People spread butterfly on their toast.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "An ape knows how to solve college-level calculus.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Arctic fox release themselves from eggs when they are born.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Leafhoppers are active little guys, bouncing all over the place; that's what makes them such a problem when it comes to spreading germs.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "An Ocelot leaps and swims and is also a type of cat.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Toni Morrison won the American book award.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Pangolins hunt and eat penguins and polar bears.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Jeff Bezos recently stepped down as CEO of Amazon.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Hailing as the number one vacation spot, brussels sprouts Fruit Garden is a village in Brussels.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Menachem Begin represented a country based on Christianity.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Wednesday gives people a chance to exchange gifts with each other.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Hip hop took most of its inspiration from techno music.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Pilots rely on their radar tools to safely navigate the airways.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Monopoly entertained Revolutionary War soldiers.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "At least two members in Arcade Fire share a parent.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Apartheid became the nickname for slavery in the united states.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Three Stooges performed comedy together.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Sometimes pools will have a porch floating in it for for people to relax on.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Koalas have gills and breathe underwater.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The philosophies of Parmenides and Heraclitus are considered to be in agreement.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Steve Albini founded his own recording studio.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The members of Slayer inflicted harm to others.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Pope Gregory VII gifts his flowers with faith and purpose.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Cytomegalovirus may be the greatest rock band ever.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "People either know Tim McGraw by having listened to his music, watching him on TV, or familiarity with his wife, Faith Hill.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Spaghetti ceases to be served in American household.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Many Greek residents live in the Olympic Stadium.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "In the calendar year, May comes after April and before June.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Catfish have whiskers and swim in water.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "George S. Patton achieved four star rank as a general in the US Army.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "It is a common practice for babies to gift their mothers a rose at the time of their birth.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The gray fox only eats plants.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Dave Grohl played bass for the band Nirvana.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Pablo Neruda wrote the novel Duma Key.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The long stretch of U.S. Route 66 hosts many travelers and roadtrippers every day.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Michael Jordan played basketball at the University of North Carolina.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The American Indian Wars featured fighting in North America.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Surrender of Japan happened at the Olympic Games.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The butterfly ate the bug that it caught.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Axis powers won in World War II.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bruce Lee used to teach martial art. He opened a martial arts school.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Adam Levine serves as a singer in a rock band.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Driving does not require a license in the United States.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A scrotum holds the testicles for the male.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Brussels sprout comes in a form of edible flower.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Muse had several songs that were hits in the US.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Polish Armed Forces fought for Poland in World War II..", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Ralph Nader didn't receive the most votes in the Presidential election, in either the popular vote or electoral college.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "You can see that a planned economy is used in free market capitalism not socialism.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A Firewall helps protect your computer from security threats.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Current leaders of Russia can look to Dmitry Medvedev for advice.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Slayer plays hard rocking guitar metal.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Apollo 15 served as the first mission to the moon.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "African Americans helped pioneer blues music in the United States.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "People got to see the monitor lizard in the area of the zoo marked as the African savannah.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bigfoot exists as a part of American folklore.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The scrotum regulates the temperature of the testicles in the human male reproductive system.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Nancy Pelosi followed Paul Ryan as Speaker of The House.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Land Run of 1889 led to the settlement of Norman, Oklahoma.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A Lifeboat helps people learn to swim.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bowhead whale swim in controlled climates in zoos.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Whole Foods Market loves to supply the public with food full of artificial flavors and preservatives.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "U.S. Route 66 has never been repaired since it was built.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Thurgood Marshall grew up in Baltimore, Maryland.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Many Jazz clubs play Tiësto.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Using allium can replace cooking with salt.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Due to the COVID-19 outbreak, EastEnders went on a reduced schedule and even a hiatus until eventually returning to their full time schedule.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Epcot brings in hundreds of thousands of tourists every year.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Most Americans eat dosa regularly with most meals.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Fleur-de-lis symbolized the British monarchy.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Tim McGraw collaborated with another country artist on a track.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Bulk carrier only haul corn across the ocean.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "People use LinkedIn to connect with people and find work opportunities.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The lowest resolution for ultra-high-definition television is 16k.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "George Armstrong Custer served in World War II.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Dosa originated in the United States of America.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The United States Marine Corps exists as a branch of the United States.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dmitry Medvedev runs a new campaign for President.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A Internet troll makes people feel bad by being rude to them.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Titanic contained a Lifeboat for everyone.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Vice Media produces documentaries and television shows.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "William Howard Taft served as an American politician.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Chrome OS mostly runs kitchen appliances.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The US Open gets televised all around the world.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Laws against hate speech force people to love speech.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Paratroopers exist as usually part of military entity.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "American journalist can be proud when they win the Pulitzer Prize.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Billy Corgan toured with the Beatles.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "There is only one type of material used in sculpture.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Up became a critical success upon release.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Michelangelo worked in various media making murals and statues still appreciated today.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Country music lovers often go out to country festivals to see Tiësto.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Someone ordered chocolate cake for dessert.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Categorized as a natural wonder, Lawrencium is respected as a strong subject.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "George Armstrong Custer survived the Battle of Little Bighorn.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Fairly OddParents had to eat magic beans in order to fulfill their children's wishes.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "LinkedIn restricts their membership to people who are currently and actively teaching or studying.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Michelle Obama birthed sons as part of the family of Barack Obama.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Up grossed among the highest Warner Brothers animated movies.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Louisa May Alcott lived in Massachusetts.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Epcot continues to be a Disney attraction.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Pepsi Center sprays its audience with Pepsi after every point scored.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bret Hart boxed for two decades.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Arthritis medications include Lexapro and Paxil.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Teenagers should watch Teletubbies because it would be very appropriate for their viewing age.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Joan of Arc performed in plays dressed as a man.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bryan Adams mainly performed soft rock.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The common saltwater reptile named the lake trout that hibernates in the cold continent of Antarctica.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Playing a melody makes great music.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Mary Pickford discovered electricity when she was young.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Dextroamphetamine can relieve pain in patients.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Internet troll often leave words of encouragement for online influencers.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "An aphid makes vegetables taste better.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Badminton requires use of a baseball bat and mitt.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A United States president has veto power to refuse to approve a bill.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Turkish invasion of Cyprus involved the use of nuclear weapons.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Alexander Graham Bell invented frequently used technologies.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Captain Marvel movie tells the story of hero Carol Danvers.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Hard disk drives operate best in extremely hot conditions.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Eating lots of dessert can lead to obesity.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "C. S. Lewis wrote the Narnian Chronicles.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Ray Charles played professional basketball before losing his sight.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Many people bike across the Sydney Harbour Bridge cycleway in the morning.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Lent requires people to pray for 2 months straight.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Warren E. Burger played for the New Orleans Pelicans at center.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Tim McGraw creates popular country music.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The donkey pulled a cart for the farmer.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Hopi people often were found in the desert Southwest.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Many kids will eat a firefly after catching it.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Jim Webb teaches geometry for a living.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A representative democracy is ruled by a King or Queen.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "At one time, The Washington Monument was the world's tallest building.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The University of Wisconsin–Madison never grants honorary degrees.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Allium experiences many emotions including anger.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Posttraumatic stress disorder make life easier for people.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Fairly OddParents follows a boy named Timmy as he navigates life with his fairy godparents.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "There have been multiple documentary film festivals over the years.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The elephant used his trunk to scoop up his food.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Beta Israel lives in the heart of the African nation of Ethiopia.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Pepsi Center often holds baseball games.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Coen brothers made the movie Garfield starring Bill Murray.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Ray Charles played the piano in his songs.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Emperor Meiji ruled over Japan and his reign was called the Meiji period.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "People watch sports games at the Pepsi Center.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Watergate scandal occurred before World War II.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Adam Levine sings in a band but has ever acted.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Pi plays no role in the calculation of the circumference.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "If you want a guitar, check out Yamaha Corporation.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Billy the Kid terrorized the Montana region and portions of Canada.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Statue of Freedom can corrode when exposed to air.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Pope Pius VI hailed from the nation of Spain.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The United States Marine Corps never operated as a part of the United States military.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Boyle's law prevents people from making false claims in court.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The food known as dosa often are served with Indian dishes.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Sam Cooke played third base for the Boston Red Sox.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Alfalfa tastes similar to shiitake mushrooms and soy beans.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Benedict Arnold committed treacherous deeds against America.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dutch people originate in the Netherlands.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Robert De Niro loves his country, Germany.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Kilns can be used both indoors and outdoors.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "James Hetfield won many awards for his acting in movies.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Athletes hit home runs in Super Bowl XLVII.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Daniel Dennett won the Jean Nicod prize for philosophy.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Punch coined the term cartoon.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Jacob Zuma serves as President of South Africa currently.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bret Hart established himself as a professional wrestler.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Bruce Lee cooks his famous Kung Fu soup for fellow singers.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Echinacea strikes a person dead after one dose.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The position of President of Ukraine ceases to exist after the Russian invasion of Ukraine.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Fairly OddParents used to make great magic tricks to grant a children's wishes.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Tool released a series of albums.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Gregory Peck won an Oscar in 2020.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Richard Linklater scored the winning goal for England national team.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The dodo bird no longer lives on planet earth.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Nancy Pelosi serves as an impoverished politician.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Saint Kitts and Nevis celebrates carnival.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "While not as known as drag queens, drag king are making their way up in popularity with the rising acceptance and popularity of shows like Rupaul's Drag Race.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Some females can have a scrotum if they are transgender.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Robert Redford played hockey for a living.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Dissociative identity disorder can not be diagnosed.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Audiobook can carry conversations with a human.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "An ape mirrors our behaviors due to genetics.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Muse released an entirely acoustic album.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The man ate the Champagne with a fork.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "You can watch Star Trek: The Next Generation a tv show in the sci-fi genre.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Menopause caused a stir in the movie theatres.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Woodrow Wilson helped create the League of Nations.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Ray Charles soars when he plays his music.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Tool performs exclusively for a Las Vegas residence.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Richard Branson founded the space exploration company Blue Origin.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Many people eat dosa in India.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Jacob Zuma served as a South African activist.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Winning a Pulitzer Prize often means that a person has great acting skills.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The breast bone provides nutrition for the newborn.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A butterfly comes out of a cocoon.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Pearl Harbor bombing took the lives of many armed services members in Hawaii.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Harry Potter the book turned film-series, has expanded so much that the brand now encompasses entire cafes and theme parks.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Pope John Paul II venerated Pope Pius IX as a catholic.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "RoboCop does not have any cops in it.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Films produced by Brad Pitt include Moneyball a movie based on a true story.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Everything you read in a tabloid journalism is factual with source verification.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Waiting staff never talk with customers.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The San Fernando Valley houses many tigers.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bulk carrier are used to ship product across the globe.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Peter Sellers acted in numerous movies.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "People celebrate Green Day by wearing all green.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bugs Bunny famously feuded with Elmer Fudd in many cartoons.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Pain management decreases a person's ability to heal from injuries and surgery.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Fennel tastes very good in Mediterranean food.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The olive tree grows in the Mediterranean.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Scurvy often affects people who eat a lot of fruit.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A porch usually provides outdoor living space connected to a domicile.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Telling someone they are a nerd is a compliment to many.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The elephant grows horns as they get older.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "William Howard Taft ceases to be recognized as a former American president.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Robert De Niro acted in many different films.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Susan Sarandon performed in front of the camera.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dan Brown rocketed to the top of the bestseller list with The Da Vinci Code.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The United States Department of Housing and Urban Development helps some homeowners with a loan.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Sodium hydroxide accepts and bonds to Hydrogen ions.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Whole Foods Market will soon begin selling clothing in their stores.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "People visit Lake Tahoe only to find gold.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Holy Saturday represents the death of the Buddha.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "You must have a university degree in order to be able to get hired as a civil engineer.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The brake pedal speedily applies pressure to the Brake s.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dan Brown wrote the novel Huckleberry Finn.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Texas hold 'em has grown in popularity across the world.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Richard Linklater directed a series of films.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dwyane Wade played for the Phoenix Suns.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A general manager talks to the employees about their at home problems for the job.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Dave Grohl drummed for Nirvana before fronting his current band, the Foo Fighters.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Bill Richardson served as a governor of a Southwestern state in the United States.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Products containing coffea should be avoided if you dislike caffeine.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Toni Morrison has written different books.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Alexander Graham Bell invented the light bulb.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A butterfly prefers to hover over feces.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The walrus lives in ice in the Arctic ocean.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Horace Greeley Lived on a farm and was a world renowned prized cattle farmer.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A hamster can grow to over twenty pounds in weight.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Children learning the trumpet may excel in smooth jazz.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The blues artist won the Grammy for best country music performance.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Any allergy can cause people to hallucinate.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The pancreas produces milk in the body.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Whole Foods Market has a reputation for being pricy, where many people will jokingly call the chain Whole Paycheck.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Many vegetables contain high levels of starch.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The woman who had acro phobia wanted to live on the 50th floor of her building.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Coen brothers directed the film Garfield.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Ultra-high-definition television has clearer picture than standard definition TV.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A butterfly can transfer pollen as they fly from one flower to the next.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The gray fox can run fast to catch its prey.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Professional boxing need three fighters at a time.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Jeff Bezos affords many luxuries in life.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "James Hetfield plays loud music in a band.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Augusta, Georgia earned its name for the hottest month of the year (August) which is particularly hot there.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Germany was one of the countries fighting in the Battle of France.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Hate speech creates hate crimes at times.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The instructional manual for the Army's new canon is called canon law.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Professional boxing ceases to exists as a fighting sport now.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Lenin never held the title of Premier of the Soviet Union.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Emperor Meiji ceases to be recognized as a former emperor of Japan.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Melody adds harmonic undertones to music.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "WordPress uses steam to print words on paper.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Many families prefer preparing spaghetti since the preparation is pretty easy.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The cricetidae create the first appearance for the hamster among other rodents.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Lenin was the first Premier of the Soviet Union.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Professional boxing requires no practice or skill.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A snake can move freely because it has no bones.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A protest is a demonstration of freedom of speech in action.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Tool won a Grammy for their alternative rock sound.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Gregory Peck possessed the talent to play Atticus Finch in To Kill a Mockingbird.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A black fly does not bite.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Daytona 500 takes place in California.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Many schools have robotics clubs to participate in and build things.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Catfish typically make meowing noises when they are caught by a fisherman.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Microsoft helped Nintendo build the Nintendo DS Lite.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Lent scored the winning goal in yesterday's final match.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A butterfly flies with three wings.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Celsius competes with Fahrenheit for the top method of temperature measurement.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Hector Berlioz sang the song someday, somewhere, somehow.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "You can use software to accomplish a plethora of statistical tasks.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Koi often are seen in ponds as a decorative fish.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Snickers taste like caramel and peanuts.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "People with Dissociative identity disorder usually have horrible headaches that keep them bedridden.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Firewall gives hackers a way to walk in and grab information.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Consumer Reports gives consumers reports on products they might use.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Whole Foods Market has hundreds of locations.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The leafhopper frequently jumps on plants.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Nuns get paid millions of dollars for their work.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The children kicked around the meatball on the soccer field.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Whole Foods Market currently operates as part of a larger business.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Victoria Beckham married a soccer player.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The porch ceases to exist as part of American homes.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Pope Leo X spoke to Pope Francis.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Bigfoot habitats the Northwest US and Canada.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Laurence Fishburne acted in films during his career.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Willow bark overcomes the fever of colds and viruses.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Harry Potter can teach classes on how to fly on a broomstick.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Most webmasters know every single kind of spider.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Sound of Music won the Tony Award for Best Drama.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Dance remains a critical component of theatrical productions, especially musicals.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Wonderful Wizard of Oz never led to a film adaptation.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The pangolin tower over most animals, Standing Tall at almost 7 feet it is one of the largest animals the world.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Salmonella causes many food related illnesses.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "March Madness is celebrated and sponsored by the NBA.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The United States Armed Forces have fought in many countries around the world.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Joan of Arc got executed for heresy.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Pope Pius VI had a unified alliance with Napoleon.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Jim Webb works in the field of politics.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The aileron works with the help of the engine.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Lent period is practiced by catholics.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "US Open can watched from home on tv.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Bugs Bunny sold by United States to France, broke many records for highest sale of any franchise.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "People drive on the Highway to go long distances.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "George Armstrong Custer lost his life at the Battle of Little Bighorn.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dan Brown writes romance novels set in Europe.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Lake trout ceases to exist as a source of food.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "One must travel to Northern California in order to get to San Fernando Valley.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The President of India stopped COVID-19 before mass sickness in his country.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Las Vegas Motor Speedway has hosted open-wheel car races.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The first European settlers to America came in contact with the Hopi people.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Black fly bites people in Michigan.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Robert Redford acted in many different movies throughout his long career.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The paternal side of the family of Barack Obama originates from Africa.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Ray Charles went blind in his childhood from glaucoma.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Science accepts all papers submitted for publication.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Albrecht Dürer served as an officer the First World War.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Star Trek: Deep Space Nine aired exclusively as a web series.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Arcade Fire creates percussion heavy music.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Aaron spoke on behalf of Moses.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A Firewall helps people burn down buildings.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The man from Monmouth County, New Jersey drives to work in Los Angeles every day.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "John Dewey invented light bulbs and electricity.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Western Wall currently exists in Israel.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "An amoeba overtakes other life forms for sustenance.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Harlem Renaissance took place in Europe in the 17th Century.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "It is safe for someone with a nut allergy to eat just one almond.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Southern United States make the most wine in the United States.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Science deals with topics of art and philosophy.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Christopher Walken works with directors on his job.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Johann Gottfried Herder created poetry during the days of the enlightenment.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A butler works in a house for a family.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Druze practiced religion and different rituals.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Even those who've never seen the show will know two things, that Popeye is a sailor who loves eating spinach.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Chrome OS can simply be added to an Apple computer by a simple installation.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Battle of France occurred during the second world war.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Many people own a walrus as a house pet.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Painting the inside of a house will cause it to drop in value.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Arctic Ocean lies in one of the coldest places on earth.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Tonight Show Starring Jimmy Fallon never hosts popular musicians.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Artists paint pastoral scenes of countrysides.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The classical music concert included music by Frédéric Chopin.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "If a supervillain is not in a movie then the movie cannot be made.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Tim McGraw father played professional soccer.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Watchmen the show only contains stories about watchmakers.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The European theatre of World War II includes Japan.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Rocky Balboa was at risk of contracting Salmonella.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Mona Lisa is a perfect example of Art Nouveau work.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Koi classifies as a type of fish.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Koi often are eaten in many fast-food restaurants.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "In 2016, the Renminbi was recognized as a reserve currency by the IMF.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Deciduous trees look stark in the winter.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "One of the most well known nurses is Florence Nightingale.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Putin rules over the people in Moscow, Idaho.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Medical imaging reveals cancers growing inside the body.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "You can get motion sickness on a boat.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dodo birds current flourishing in population has led to too many of them being born.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Alanis Morissette sings the song call me maybe.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Spaghetti sauce defines the type of Spaghetti dish your served.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Popeye hates to eat Spinach because it is nasty.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Ron Paul ran for president in 2008.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Captain Marvel shows a woman using her swimming powers to save people.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The dodo flies around the same height as the red tailed hawk.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Nissan makes fast awesome motorcycles and cars.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The pancreas most often sits inside the human stomach.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Flag of the United States originates in the country of France.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The patient with pneumonia was suffering from hypoxia.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Edgar Allan Poe continues to publish short stories today.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Watchmen depicted apocalypse in comical form.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Jean-Jacques Rousseau influenced the progress of the enlightenment in Europe.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Those undergoing spaceflight experience weightlessness for a period of time.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Koalas enjoy munching on eucalyptus leaves.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "David Cameron existed in parliament during the 2010 through 2015 cycle.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Diamonds are not the very hardest natural substance.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The attack on Pearl Harbor took place in 1941.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Mickey Mantle had a successful career in football scoring over 20 touchdowns.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Having dessert represents unhealthy behavior by unhealthy people.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Docklands Stadium hosts water polo and diving competitions.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Paul Allen clothing line is trendy.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The American Indian Wars featured fighting between Spanish and the Danish.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Menopause often happens before a woman gets to the age of twenty.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Ancient Greeks believed stoicism was important in everyday life.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Geoffrey Chaucer wrote the greatest poems of the Spanish language.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Alfalfa grows all over the world and is used in traditional Chinese medicine.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Some students major in physics at the University of Cambridge.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The placenta serves a vital function in the survival of the growing fetus.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "People can watch Minor League Baseball at a stadium.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The writings of Paul the Apostle can be found in the Holy Bible.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The United States Army War College locates itself in Pennsylvania.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Walter Mondale competed against Ronald Reagan in the 1984 United States presidential election.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Buenos Aires Province resides in South America.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Most followers of Druze live in the middle east.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Waiting staff serves food in restaurants.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The torque when it acts on a body causes rotational motion.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Kilns are only used in pottery.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The leafhopper grows to 6 inches in length.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Tim McGraw contributes to many space missions with NASA.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Magic Flute changes the genre of Opera leaning more towards a bluesy style.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Donkeys are used by humans as a working animal.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Premier of the Soviet Union visited African in 2019.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Eating desserts helps to fight cancer.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The bible does not limit people's ethical conduct in its Ten Commandments.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Philistines considered the Israelites to be allies.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Arthritis will cause permanent damage to your brain.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Curse of the Bambino began when Babe Ruth was traded to the Yankees.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Alpaca's fur is so soft we used it today in a lot of sewing and clothing.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Brussels sprout belongs in brassica oleracea species.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Offspring released their first album in 1989 on vinyl and cassettes.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A public execution was the end of Louis XVI of France.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A butterfly consumes the pollen of the flowers it visits.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The larynx allows people to speak.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Only people in Japan drive Nissan cars.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Cellulose in meals cannot be digested in the human body.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Hate speech creates a lot of fights in the USA.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Pearl Harbor had such an impact on American history that kids today are still learning about the event.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Sick people will often take echinacea to try to help their immune systems.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The scrotum holds the urine produced by the man.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Docklands Stadium hosts many athletic events.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Pig latin replaces scholarly Latin as a language of choice for universities.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Adam Levine founded the Rolling Stones in the 70s.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Alicante serves as a port city for Valencia, Spain.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Ashes may be won by only good teams.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Michelangelo painted a lot of different art pieces.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Walt Whitman wrote many poems and essays.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "C. S. Lewis authored The Lord of the Rings trilogy.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "3G network can help transport goods.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "several celebrities appear on The Tonight Show Starring Jimmy Fallon.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Opuntia grows in the Americas and in Africa.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The first female doctor was Florence Nightingale.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Housefly grows as large as a pear fruit.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Wilhelm Wundt became a distinguished psychology professor in Germany.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Hotel manager always works from home.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The prevalence of Christianity in China is a major discomfort to the authorities.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Daniel Dennett lack of education has been an impediment to his ambitions.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "An Art Deco style can be used to remodel an apartment.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Hippopotamus only eat plants and no meat.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Harvesting a Carrot requires the use of a ladder.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "H. P. Lovecraft wrote the, Call of Cthulhu.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The President of the Republic of China bakes cakes for a living.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Dave Grohl drums for a living and played in Nirvana.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Blues music comes from the Pacific Northwest region of America.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Food Network channel showed a western movie.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Many people visit the Washington Monument each year.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Meningitis does not cause seizures in sufferers.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Muse teaches a philosophy course at Cambridge.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Volkswagen Beetle came into being in Germany under Adolf Hitler.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The President of the Republic of China reigns for life.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Nancy Pelosi has a career as an American politician.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Children enjoy watching Sesame Street on TV.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Louis C.K. makes audiences laugh because he is a comedian.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "William Howard Taft served as Governor of an island.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "A presidential veto frustrates lawmakers in Congress.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "In today's world dessert comes at any time, not just after dinner.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Dwyane Wade scored 100 goals in the MLS.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Zack Ryder survived cancer and he is a wrestler.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Rahul Dravid dominates the world of particle physics.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Reading and Leeds Festivals feature rock bands and attract a lot of music lovers.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Christopher Walken acted in the movie Super Troopers.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "A butler excels at gliding quietly about.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Food Network sells people food at a restaurant.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Geoffrey Chaucer typed his stories on a computer.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Alanis Morissette goes back to her hometown in Paris to race nascar.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "William Howard Taft served in the United States government.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "George Armstrong Custer fought in the American Indian Wars.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Marshall McLuhan write papers on the theory of communication.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Nintendo built Nintendo DS Lite with two screens.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Petro Poroshenko ruled as President of Ukraine.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Three Stooges released a series of comedy movies.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Holy Saturday despite its name takes place on the third Sunday of the month of November.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Wonderful Wizard of Oz starts off in Texas.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Motion sickness can only be caused while flying in an airplane.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Humans can survive without any sleep.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Driving cars at the Las Vegas Motor Speedway is only for the public.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The scrotum connects to the spinal cord.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The firefly lights up sporadically and create a quick glow.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Parody provides a humorous interpretation of familiar poetry or art.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Sound of Music creates the illusion of a floating in a flower bed.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "One can listen to the Beauty and the Beast music on Youtube.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Badminton requires use of a racket to play.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "The Ten Commandments feature prominently in the Old Testament of the Christian Bible.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Boa constrictors serve as a source of food for most people.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Pear has the flavor of black licorice.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Arnold Schwarzenegger mother gave birth to him in a hospital in the United States.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Christmas Trees abound in the month of July.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "The Edge won his match against the Big Show in WWE.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Due to vaccinations Smallpox has been completely eradicated from the population.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "Apollo 15 could be found moving around mars.", "context": null, "options": ["True", "False"], "label": false}
+{"question": "Penguin Books sells many short stories for children that are available for purchase in most bookstores.", "context": null, "options": ["True", "False"], "label": true}
+{"question": "An aphid makes maps in their homes.", "context": null, "options": ["True", "False"], "label": false}

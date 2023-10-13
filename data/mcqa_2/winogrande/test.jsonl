@@ -1,0 +1,634 @@
+{"question": "Late at night, Rebecca was more tired than Jessica so _ was unable to go right to sleep.", "context": null, "options": ["Rebecca", "Jessica"], "label": "Jessica"}
+{"question": "Late at night, Rebecca was more tired than Jessica so _ was able to go right to sleep.", "context": null, "options": ["Rebecca", "Jessica"], "label": "Rebecca"}
+{"question": "The woman pierced the customer's tongue with a needle before piercing his nose because the _ was numb.", "context": null, "options": ["tongue", "nose"], "label": "tongue"}
+{"question": "The woman pierced the customer's tongue with a needle before piercing his nose because the _ was still sensitive.", "context": null, "options": ["tongue", "nose"], "label": "nose"}
+{"question": "Starting the engine of the car took less time unlike the truck since the _ 's engine was working at the time.", "context": null, "options": ["car", "truck"], "label": "car"}
+{"question": "Neil used a chainsaw to cut down the tree instead of a regular saw like William, because _ believed in modern equipment.", "context": null, "options": ["Neil", "William"], "label": "Neil"}
+{"question": "The shirts were straighter than the pants because the _ were hanging on the hanger.", "context": null, "options": ["shirt", "pants"], "label": "shirt"}
+{"question": "The shirts were straighter than the pants although the _ were hanging on the hanger.", "context": null, "options": ["shirt", "pants"], "label": "pants"}
+{"question": "The man thought lifting the rock, not the log, would give him a hernia because the _ was lighter.", "context": null, "options": ["rock", "log"], "label": "log"}
+{"question": "Maria was able to keep their weight off long term, unlike Felicia, because _ followed a healthy diet.", "context": null, "options": ["Maria", "Felicia"], "label": "Felicia"}
+{"question": "Maria was able to keep their weight off long term, unlike Felicia, because _ followed a crash diet.", "context": null, "options": ["Maria", "Felicia"], "label": "Maria"}
+{"question": "The dog was more suspicious of the locker than of the package because the drugs were in the _ .", "context": null, "options": ["locker", "package"], "label": "locker"}
+{"question": "Justin usually paid for the gas when Craig always said he was broke. _ was generous.", "context": null, "options": ["Justin", "Craig"], "label": "Justin"}
+{"question": "Erin loved people and wanted to help them while Katrina loved to help animals. _ volunteered at the local shelter.", "context": null, "options": ["Erin", "Katrina"], "label": "Katrina"}
+{"question": "Dennis did not enjoy their afternoon but Hunter did because _ left work after the sunset.", "context": null, "options": ["Dennis", "Hunter"], "label": "Dennis"}
+{"question": "Dennis did not enjoy their afternoon but Hunter did because _ left work after the sunrise.", "context": null, "options": ["Dennis", "Hunter"], "label": "Hunter"}
+{"question": "We were making orange jack o lanterns and  bought candles to put in the oranges, the candles did not fit. The _ were too big.", "context": null, "options": ["candles", "oranges"], "label": "candles"}
+{"question": "We were making orange jack o lanterns and  bought candles to put in the oranges, the candles did not fit. The _ were too small.", "context": null, "options": ["candles", "oranges"], "label": "oranges"}
+{"question": "Natalie committed a bunch of good deeds in Samantha's name, because _ wanted all the credit.", "context": null, "options": ["Natalie", "Samantha"], "label": "Samantha"}
+{"question": "Natalie committed a bunch of good deeds in Samantha's name, because _ didn't want the credit.", "context": null, "options": ["Natalie", "Samantha"], "label": "Natalie"}
+{"question": "She wanted to shop for more clothes and ultimately decided on the velvet dress instead of the denim jacket because the _ was more casual.", "context": null, "options": ["dress", "jacket"], "label": "jacket"}
+{"question": "Neil put the finishing touches on the android as he sold it off to Brian because _ was an engineer.", "context": null, "options": ["Neil", "Brian"], "label": "Neil"}
+{"question": "Laura didn't buy anything at all for Betty's birthday, because _ forgot to mention it.", "context": null, "options": ["Laura", "Betty"], "label": "Betty"}
+{"question": "Joel plans to go to Latin America next year where Dennis is currently living, _ has never been to Latin America.", "context": null, "options": ["Joel", "Dennis"], "label": "Joel"}
+{"question": "Beautiful to Angela means something physical, while it's mental to Emily, so _ is deeper.", "context": null, "options": ["Angela", "Emily"], "label": "Emily"}
+{"question": "Beautiful to Angela means something physical, while it's mental to Emily, so _ is shallower.", "context": null, "options": ["Angela", "Emily"], "label": "Angela"}
+{"question": "Jason really wanted to get the job, but he felt like he flunked the interview. The manager called and said he could try the _  again next week.", "context": null, "options": ["job", "interview"], "label": "interview"}
+{"question": "I was wearing wool socks when I went to try on my new boots but I couldn't get them on because the _ were too small.", "context": null, "options": ["boots", "socks"], "label": "boots"}
+{"question": "I was wearing wool socks when I went to try on my new boots but I couldn't get them on because the _ were too large.", "context": null, "options": ["boots", "socks"], "label": "socks"}
+{"question": "The library always had more books than computers, most likely because the _ are smaller.", "context": null, "options": ["books", "computers"], "label": "books"}
+{"question": "The library always had more books than computers, most likely because the _ are bigger.", "context": null, "options": ["books", "computers"], "label": "computers"}
+{"question": "The hair stylist gave Laura hair extensions and not Katrina because _ had very short hair.", "context": null, "options": ["Laura", "Katrina"], "label": "Laura"}
+{"question": "Monica did not need a recipe in order to mix a cake but Angela did because _ was an instinctive baker.", "context": null, "options": ["Monica", "Angela"], "label": "Monica"}
+{"question": "Craig had cereal for breakfast while Dennis had a shake, so _ finished drinking their breakfast.", "context": null, "options": ["Craig", "Dennis"], "label": "Dennis"}
+{"question": "Craig had cereal for breakfast while Dennis had a shake, so _ finished eating their breakfast.", "context": null, "options": ["Craig", "Dennis"], "label": "Craig"}
+{"question": "Logan ended up calling the police over an incident involving Jason because _ was scratched by them.", "context": null, "options": ["Logan", "Jason"], "label": "Logan"}
+{"question": "Carl needed a new top after ripping his epaulette shirt. He wanted a  flannel shirt because the _ is old.", "context": null, "options": ["epaulette shirt", "flannel shirt"], "label": "epaulette shirt"}
+{"question": "Garrett was always feeling fatigued because of the energy his job demands. The _ of the job is too much.", "context": null, "options": ["demand", "energy"], "label": "demand"}
+{"question": "Ben had to respect his toys and his books to ensure they last long. However, it was difficult to respect the _ because they were fun.", "context": null, "options": ["toys", "books"], "label": "toys"}
+{"question": "He made a few dishes to serve. One was a salad and the other was a steak. The _ was healthy.", "context": null, "options": ["salad", "steak"], "label": "salad"}
+{"question": "Although Angela was overall a nicer person than Natalie, _ often did practice humility very regularlly.", "context": null, "options": ["Angela", "Natalie"], "label": "Natalie"}
+{"question": "Cynthia has a pond in their backyard, but Carrie cannot afford one, which means _ lives in the richer neighborhood.", "context": null, "options": ["Cynthia", "Carrie"], "label": "Cynthia"}
+{"question": "Neil's cat was terrified of thunderstorms but Kyle's wasn't bothered by them. _ found their cat hiding under the bed after the loud crackle of thunder.", "context": null, "options": ["Neil", "Kyle"], "label": "Neil"}
+{"question": "Jay could comfort sad people better instead of happy people because the _ people weren't realistic.", "context": null, "options": ["sad", "happy"], "label": "happy"}
+{"question": "Eric often thought of his annoying habits, like hitting his pen on his desk, and asked Ryan if it bothered him; _ said he was sorry he had done it.", "context": null, "options": ["Eric", "Ryan"], "label": "Eric"}
+{"question": "Tanya wanted poppies for her wedding flowers but Carrie said that was an odd choice. _ pointed out it was a wedding and tradition mattered.", "context": null, "options": ["Tanya", "Carrie"], "label": "Carrie"}
+{"question": "Benjamin shaved his beard, but Nick had just grown one, so _ gave them all his old oils.", "context": null, "options": ["Benjamin", "Nick"], "label": "Benjamin"}
+{"question": "I got more use in the gym than at the playground because the _ had more things to do.", "context": null, "options": ["gym", "playground"], "label": "gym"}
+{"question": "Monica can speak English and German but Samantha can only speak English because _ is trilingual.", "context": null, "options": ["Monica", "Samantha"], "label": "Samantha"}
+{"question": "All of the bands were not able to march on the fields at the same time because the _ were massive.", "context": null, "options": ["bands", "fields"], "label": "bands"}
+{"question": "Marty needed some sport and dress shoes, but could only buy one pair. He went with the _ since he would be going to a wedding.", "context": null, "options": ["dress", "sport"], "label": "dress"}
+{"question": "I like to drink mineral water over tap water when I travel outside of the USA because the _ water in other countries is safe.", "context": null, "options": ["mineral", "tap"], "label": "mineral"}
+{"question": "Pine trees were a big part of Erin s Christmas tree farm while Megan was jewish but helped _ celebrate anyhow.", "context": null, "options": ["Erin", "Megan"], "label": "Erin"}
+{"question": "Eating spicy foods better suited Robert and not Adam because _ never got acid reflux from salsa.", "context": null, "options": ["Robert", "Adam"], "label": "Robert"}
+{"question": "Rachel hated their new in-laws, but tried to keep it secret from Monica.  Eventually _ told them.", "context": null, "options": ["Rachel", "Monica"], "label": "Rachel"}
+{"question": "Samantha was pretty good at math while Natalie was better at English. _ enrolled in a storytelling class this semester.", "context": null, "options": ["Samantha", "Natalie"], "label": "Natalie"}
+{"question": "Kenneth had worse skin than Craig so _ had to use more of the moisturizer.", "context": null, "options": ["Kenneth", "Craig"], "label": "Kenneth"}
+{"question": "Kenneth had better skin than Craig so _ had to use more of the moisturizer.", "context": null, "options": ["Kenneth", "Craig"], "label": "Craig"}
+{"question": "The cat Natalie owned would snuggle up on Jessica's lap because _ was nice to it all the time.", "context": null, "options": ["Natalie", "Jessica"], "label": "Jessica"}
+{"question": "Brian always tried to find ways to be productive at work unlike Kenneth, because _ was a hard worker.", "context": null, "options": ["Brian", "Kenneth"], "label": "Brian"}
+{"question": "Tanya loved pepperoni on their pizza and Katrina loved sausage, so when it had just sausage _ was not very happy.", "context": null, "options": ["Tanya", "Katrina"], "label": "Tanya"}
+{"question": "Tanya loved pepperoni on their pizza and Katrina loved sausage, so when it had just pepperoni _ was not very happy.", "context": null, "options": ["Tanya", "Katrina"], "label": "Katrina"}
+{"question": "Jen planned a retreat to a mountain or the park. She chose the _ because it was warmer.", "context": null, "options": ["mountain", "park"], "label": "park"}
+{"question": "Justin bought a new RV but Lawrence liked his old one, so _ decided to buy it.", "context": null, "options": ["Justin", "Lawrence"], "label": "Lawrence"}
+{"question": "Justin bought a new RV but Lawrence liked his old one, so _ decided to sell it.", "context": null, "options": ["Justin", "Lawrence"], "label": "Justin"}
+{"question": "Tanya was unrecognizable after Sarah was done beating them, so _ ended up going to jail.", "context": null, "options": ["Tanya", "Sarah"], "label": "Sarah"}
+{"question": "Frank wanted to put the burger on the barbecue, but the _ wasn't formed yet.", "context": null, "options": ["barbecue", "burger"], "label": "burger"}
+{"question": "All the glaciers that fell from the top of the mountains were found at the bottom. The _ were large.", "context": null, "options": ["Glaciers", "Mountains"], "label": "Glaciers"}
+{"question": "The student liked writing their signature with a pen instead of a pencil, because the _ showed up lighter.", "context": null, "options": ["pen", "pencil"], "label": "pencil"}
+{"question": "The student liked writing their signature with a pen instead of a pencil, because the _ showed up darker.", "context": null, "options": ["pen", "pencil"], "label": "pen"}
+{"question": "Derrick showed Jason how to cut the tiles for their kitchen, and _ was shown appreciation for their help.", "context": null, "options": ["Derrick", "Jason"], "label": "Derrick"}
+{"question": "So _ avoids eating carrots for their eye health because Emily needs good eyesight while Monica doesn't.", "context": null, "options": ["Emily", "Monica"], "label": "Monica"}
+{"question": "The medical waste was moved from the bag to the bucket, so the _ soon became sterilized.", "context": null, "options": ["bucket", "bag"], "label": "bag"}
+{"question": "Sarah but not Erin would get a retirement pension because _ had a 30 year work career.", "context": null, "options": ["Sarah", "Erin"], "label": "Sarah"}
+{"question": "Derrick had been working on his script for years and refused to get any other job, much to Logan's dismay. _ was worried and upset.", "context": null, "options": ["Derrick", "Logan"], "label": "Logan"}
+{"question": "Connie likes to cook at home and decided to forgo a roast in favor of tofu because the _ is useless for a vegetarian meal.", "context": null, "options": ["roast", "tofu"], "label": "roast"}
+{"question": "He has a much harder time with this fever compared to the flu, because the _ took one week to get over.", "context": null, "options": ["fever", "flu"], "label": "fever"}
+{"question": "I couldn't decide if I should pressure cook or smoke the pig feet.  After looking outside, I decided the weather was poor enough to _ them.", "context": null, "options": ["smoke", "pressure cook"], "label": "pressure cook"}
+{"question": "I couldn't decide if I should pressure cook or smoke the pig feet.  After looking outside, I decided the weather was good enough to _ them.", "context": null, "options": ["smoke", "pressure cook"], "label": "smoke"}
+{"question": "The computer ran faster than the tablet because the files on the _ were larger.", "context": null, "options": ["tablet", "computer"], "label": "tablet"}
+{"question": "Gem had a husky breed named Ben. Ben liked both bones and toys. However, he liked the _ the best because it was inedible.", "context": null, "options": ["bones", "toys"], "label": "toys"}
+{"question": "Brian agreed to buy soap for Kenneth while at the store, and _ paid them back the following day for the errand.", "context": null, "options": ["Brian", "Kenneth"], "label": "Kenneth"}
+{"question": "The company wanted to increase labor productivity with its new machinery and camera, but the _ had faulty screws.", "context": null, "options": ["machinery", "camera"], "label": "machinery"}
+{"question": "Hunter prepared the documents and data tables for Matthew's scientific research because _ is his assistant.", "context": null, "options": ["Hunter", "Matthew"], "label": "Hunter"}
+{"question": "Samuel was blown away to find out from Lawrence that goldfish are a type of carp, so _ decided to fact check his friend.", "context": null, "options": ["Samuel", "Lawrence"], "label": "Samuel"}
+{"question": "The professor's eyes could not see clearly because of the sunglasses he had. The _ were poor.", "context": null, "options": ["Sunglasses", "Eyes"], "label": "Sunglasses"}
+{"question": "For her birthday gifts, Sarah was upset with the pearls, but felt the opposite about the rings she received. The _ were fancier.", "context": null, "options": ["pearls", "rings"], "label": "rings"}
+{"question": "Jody wanted new mascara and eyeliner, either black or brown, but the _ was too light.", "context": null, "options": ["black", "brown"], "label": "brown"}
+{"question": "Jody wanted new mascara and eyeliner, either black or brown, but the _ was too heavy.", "context": null, "options": ["black", "brown"], "label": "black"}
+{"question": "Aaron wanted to go the gym but the others wanted to go to the park because the _ did require membership.", "context": null, "options": ["gym", "park"], "label": "gym"}
+{"question": "The doctor couldn't treat the arm infection, but was able to handle the ear ache. The _ was more petty.", "context": null, "options": ["arm infection", "ear ache"], "label": "ear ache"}
+{"question": "Michael had a cat as a pet but Nelson didn't have any pets because _ had little allergies in their system.", "context": null, "options": ["Michael", "Nelson"], "label": "Michael"}
+{"question": "Maria mimicked everything that Christine did at work because _ was like a fan to her.", "context": null, "options": ["Maria", "Christine"], "label": "Maria"}
+{"question": "Kyle paid Craig to board the family dog at the kennel for a week, because _ was going on vacation.", "context": null, "options": ["Kyle", "Craig"], "label": "Kyle"}
+{"question": "Maria told Monica they looked too sick to go to work and asked if they had a fever. _ went to the Doctor.", "context": null, "options": ["Maria", "Monica"], "label": "Monica"}
+{"question": "The stove was left on after Matthew used it, so Nelson turned it off. _ was careful.", "context": null, "options": ["Matthew", "Nelson"], "label": "Nelson"}
+{"question": "Jessica found the heavy load at work overwhelming but not Katrina because _ did a poor job at planning their work.", "context": null, "options": ["Jessica", "Katrina"], "label": "Jessica"}
+{"question": "The brutal boxing match was suitable for Christopher but not Samuel because _ did damage to his opponent.", "context": null, "options": ["Christopher", "Samuel"], "label": "Christopher"}
+{"question": "The brutal boxing match was suitable for Christopher but not Samuel because _ did not damage his opponent.", "context": null, "options": ["Christopher", "Samuel"], "label": "Samuel"}
+{"question": "Going on a diet was easier for Benjamin but not Donald because _ did not know about any different programs.", "context": null, "options": ["Benjamin", "Donald"], "label": "Donald"}
+{"question": "Jennifer got about with a seeing-eye dog but Mary did not because _ was blind.", "context": null, "options": ["Jennifer", "Mary"], "label": "Jennifer"}
+{"question": "Jennifer got about with a seeing-eye dog but Mary did not because _ was sighted.", "context": null, "options": ["Jennifer", "Mary"], "label": "Mary"}
+{"question": "The dog loved Kevin but hated Derrick, so _ started bringing the dog treats to change its mind.", "context": null, "options": ["Kevin", "Derrick"], "label": "Derrick"}
+{"question": "The dog hated Kevin but loved Derrick, so _ started bringing the dog treats to change its mind.", "context": null, "options": ["Kevin", "Derrick"], "label": "Kevin"}
+{"question": "The kitty ran away from Kayla and not Felicia because the kitty had known _ for many years.", "context": null, "options": ["Kayla", "Felicia"], "label": "Felicia"}
+{"question": "During the summer, I like visiting the zoo more than the aquarium because the _ is inside.", "context": null, "options": ["zoo", "aquarium"], "label": "aquarium"}
+{"question": "The market was going out of business so they sold their products but not the lots as the _ were useful.", "context": null, "options": ["products", "lots"], "label": "lots"}
+{"question": "The market was going out of business so they sold their products but not the lots as the _ were useless.", "context": null, "options": ["products", "lots"], "label": "products"}
+{"question": "Patricia has a trouble with training her horse and wants Tanya's help, because _ wants her horse to behave.", "context": null, "options": ["Patricia", "Tanya"], "label": "Patricia"}
+{"question": "Samuel had to recently recover from a stroke unlike William because _ was living an unhealthy lifestyle.", "context": null, "options": ["Samuel", "William"], "label": "Samuel"}
+{"question": "Randy was going to see an X-rated film but was stopped on the sidewalk and yelled at by Nick. The anger showed on _ 's face.", "context": null, "options": ["Randy", "Nick"], "label": "Nick"}
+{"question": "Randy was going to see an X-rated film but was stopped on the sidewalk and yelled at by Nick. The shame showed on _ 's face.", "context": null, "options": ["Randy", "Nick"], "label": "Randy"}
+{"question": "Angela noticed the lumps on Amy 's arms that she had failed to notice, _ is just oblivious that way.", "context": null, "options": ["Angela", "Amy"], "label": "Amy"}
+{"question": "Joel ran out of toilet paper, so he asked Dennis in the stall next to him for some. _ was relieved when he agreed.", "context": null, "options": ["Joel", "Dennis"], "label": "Joel"}
+{"question": "Kayla was the subject of a secret crush from Rebecca. _ was aware they were a secret admirer.", "context": null, "options": ["Kayla", "Rebecca"], "label": "Rebecca"}
+{"question": "Tanya was the most powerful person in the world, and Sarah admired them, because _ was something to aspire to.", "context": null, "options": ["Tanya", "Sarah"], "label": "Tanya"}
+{"question": "Ian was supposed to be babysitting for Dennis but didn’t show up because _ was forgotten.", "context": null, "options": ["Ian", "Dennis"], "label": "Dennis"}
+{"question": "Donald was able to catch the Frisbee thrown by Eric, then _ was thrown the Frisbee back.", "context": null, "options": ["Donald", "Eric"], "label": "Eric"}
+{"question": "Donald was able to catch the Frisbee thrown by Eric, then _ threw the Frisbee back.", "context": null, "options": ["Donald", "Eric"], "label": "Donald"}
+{"question": "I was driving my car and tried to get through the intersection, but the light turned red. The _ is too fast.", "context": null, "options": ["light", "car"], "label": "light"}
+{"question": "Joe brought his books to school in a suitcase instead of a backpack because the _ was bigger.", "context": null, "options": ["suitcase", "backpack"], "label": "suitcase"}
+{"question": "Joe brought his books to school in a suitcase instead of a backpack because the _ was smaller.", "context": null, "options": ["suitcase", "backpack"], "label": "backpack"}
+{"question": "During the earthquake, the boy hid under the desk instead of the table because the _ was sturdy.", "context": null, "options": ["desk", "table"], "label": "desk"}
+{"question": "While playing soccer, Robert got kicked in the head and Joel laughed at him causing the coach to look at _ with pity.", "context": null, "options": ["Robert", "Joel"], "label": "Robert"}
+{"question": "Donald had to wax a lot more frequently than Ian because _ had blonde colored hair.", "context": null, "options": ["Donald", "Ian"], "label": "Ian"}
+{"question": "Joseph asked Robert to clean the floor with a mop nearby because _ needs to work.", "context": null, "options": ["Joseph", "Robert"], "label": "Robert"}
+{"question": "Christine took all the money while Mary told her to save the money for herself. _ only knows to take.", "context": null, "options": ["Christine", "Mary"], "label": "Christine"}
+{"question": "Craig grew frustrated trying to coach Nick in soccer, as _ lacked the aptitude needed for the task.", "context": null, "options": ["Craig", "Nick"], "label": "Nick"}
+{"question": "Craig grew frustrated trying to coach Nick in soccer, as _ lacked the patience needed for the task.", "context": null, "options": ["Craig", "Nick"], "label": "Craig"}
+{"question": "Getting a divorce as soon as possible suited Victoria but not Lindsey because _ was no longer in love.", "context": null, "options": ["Victoria", "Lindsey"], "label": "Victoria"}
+{"question": "The musician liked playing at the auditorium more than at the park because he sounded quieter at the _ .", "context": null, "options": ["auditorium", "park"], "label": "park"}
+{"question": "The musician liked playing at the auditorium more than at the park because he sounded louder at the _ .", "context": null, "options": ["auditorium", "park"], "label": "auditorium"}
+{"question": "Wanting to impress his boss, the man put the brandy away and served scotch instead because the _ was expensive.", "context": null, "options": ["Brandy", "Scotch"], "label": "Scotch"}
+{"question": "Wanting to impress his boss, the man put the brandy away and served scotch instead because the _ was cheap.", "context": null, "options": ["Brandy", "Scotch"], "label": "Brandy"}
+{"question": "Pho needs cilantro and beef to be tasty. However, the _ can be too bitter.", "context": null, "options": ["cilantro", "beef"], "label": "cilantro"}
+{"question": "Pho needs cilantro and beef to be tasty. However, the _ can be too savory.", "context": null, "options": ["cilantro", "beef"], "label": "beef"}
+{"question": "Betty's blanket was much thicker than Jessica's blanket, so _ felt cold all night in bed.", "context": null, "options": ["Betty", "Jessica"], "label": "Jessica"}
+{"question": "Christopher declined when asked by Ian to play a game of chess because _ liked to play intellectual games.", "context": null, "options": ["Christopher", "Ian"], "label": "Ian"}
+{"question": "Natalie had a phobia about crossing over high bridges but Tanya didn't. _ had to re-route their trip to avoid bridges.", "context": null, "options": ["Natalie", "Tanya"], "label": "Natalie"}
+{"question": "Kenneth explained to Ryan that he was dressed like this because he was going to a disco party.  _ was excited.", "context": null, "options": ["Kenneth", "Ryan"], "label": "Kenneth"}
+{"question": "Kenneth did not like Hunter because he was not a good manager. But he still respected _ because he was his superior.", "context": null, "options": ["Kenneth", "Hunter"], "label": "Hunter"}
+{"question": "Rebecca had a way of minimizing risks whereas Mary usually did not. This made _ want to assist.", "context": null, "options": ["Rebecca", "Mary"], "label": "Rebecca"}
+{"question": "Paolo tries to remember what he read in the textbook, but all he can think of is the email from his friend because he read the _ ages ago.", "context": null, "options": ["email", "textbook"], "label": "textbook"}
+{"question": "If you are trying to get rid of blood spots from clothes use cold water instead of hot water the _ releases the stain.", "context": null, "options": ["cold water", "hot water"], "label": "cold water"}
+{"question": "If our relationship just started, should I get her a card or gift for Christmas? She might think I'm cheap if I give the _ .", "context": null, "options": ["card", "gift"], "label": "card"}
+{"question": "More people attended the funeral of Joel than of Derrick because _ was a mean person.", "context": null, "options": ["Joel", "Derrick"], "label": "Derrick"}
+{"question": "The cleavage had to be hidden for this event's clothing because the _ was inappropriate.", "context": null, "options": ["cleavage", "clothing"], "label": "cleavage"}
+{"question": "Adam decided to shave Denniss beard before the reuinion, because _ thought it was too long.", "context": null, "options": ["Adam", "Dennis"], "label": "Adam"}
+{"question": "Adam decided to shave Denniss beard before the reuinion, but _ thought it was too short.", "context": null, "options": ["Adam", "Dennis"], "label": "Dennis"}
+{"question": "Rebecca had a sneezing reflex unlike Monica, so when they took the cinnamon challenge _ won.", "context": null, "options": ["Rebecca", "Monica"], "label": "Monica"}
+{"question": "John tried to clean the juice that spilled on the carpet with a towel but it has sunk deep. The _ is still dry.", "context": null, "options": ["carpet", "towel"], "label": "towel"}
+{"question": "The landscaping looked better at the house than at the cottage because the _ owners used a hardworking company.", "context": null, "options": ["house", "cottage"], "label": "house"}
+{"question": "Emily had always loved kids and Jessica felt the opposite, so _ was surprised to become a pediatrician.", "context": null, "options": ["Emily", "Jessica"], "label": "Jessica"}
+{"question": "The intelligence agency ordered new computers for the workers and kept the same peripherals because the _ were at risk.", "context": null, "options": ["computers", "peripherals"], "label": "computers"}
+{"question": "Maria planned to spring clean this weekend and told Katrina they should help too. _ purposely left home very early.", "context": null, "options": ["Maria", "Katrina"], "label": "Katrina"}
+{"question": "Maria planned to spring clean this weekend and told Katrina they should help too. _ expected her help.", "context": null, "options": ["Maria", "Katrina"], "label": "Maria"}
+{"question": "Nelson wanted to be an actor so Neil got them an audition because _ had poor connections in the movie industry.", "context": null, "options": ["Nelson", "Neil"], "label": "Nelson"}
+{"question": "During the charity drive, they decided to donate the couch but not the bed because the _ was broken.", "context": null, "options": ["couch", "bed"], "label": "bed"}
+{"question": "The man decided to use a nail instead of a screw because the _ would be looser in the wood.", "context": null, "options": ["nail", "screw"], "label": "screw"}
+{"question": "Jen made charcoal to use as a mask and as toothpaste, but using the _ made her skin very black.", "context": null, "options": ["mask", "toothpaste"], "label": "mask"}
+{"question": "Jen made charcoal to use as a mask and as toothpaste, but using the _ made her teeth very white.", "context": null, "options": ["mask", "toothpaste"], "label": "toothpaste"}
+{"question": "Steven was disappointed as Logan asked him if he had any herb.  _ was a stoner.", "context": null, "options": ["Steven", "Logan"], "label": "Logan"}
+{"question": "Steven was disappointed as Logan asked him if he had any herb.  _ was let down.", "context": null, "options": ["Steven", "Logan"], "label": "Steven"}
+{"question": "Robert usually didn't like fish as much as Kyle however _ had a disliking for sardines on pizza.", "context": null, "options": ["Robert", "Kyle"], "label": "Kyle"}
+{"question": "Monica painted the porch for Kayla so the neighbor berated _ for being so lazy.", "context": null, "options": ["Monica", "Kayla"], "label": "Kayla"}
+{"question": "Dennis made their weight loss goal before Eric, because _ only ate a healthy diet.", "context": null, "options": ["Dennis", "Eric"], "label": "Dennis"}
+{"question": "Tanya looked for an escape route while Elena did not because _ liked to live in the moment.", "context": null, "options": ["Tanya", "Elena"], "label": "Elena"}
+{"question": "Tanya looked for an escape route while Elena did not because _ liked to be aware of all the surroundings.", "context": null, "options": ["Tanya", "Elena"], "label": "Tanya"}
+{"question": "Michael was on a diet, but cheated by eating junk food with Christopher. _ felt bad for ruining his plan.", "context": null, "options": ["Michael", "Christopher"], "label": "Christopher"}
+{"question": "Elena waited patiently for Angela, as _ arrived early to meet at their prearranged spot.", "context": null, "options": ["Elena", "Angela"], "label": "Elena"}
+{"question": "In her newly purchased house, Patricia was upset to discover a woodworm infestation and called the realtor Victoria. _ called the sellers to ask them pay for an exterminator.", "context": null, "options": ["Patricia", "Victoria"], "label": "Victoria"}
+{"question": "In her newly purchased house, Patricia was upset to discover a woodworm infestation and called the realtor Victoria. _ wanted the sellers to pay for an exterminator.", "context": null, "options": ["Patricia", "Victoria"], "label": "Patricia"}
+{"question": "We set up the treasure hunt, but the treasure chest was found easily on the path because the _ was big.", "context": null, "options": ["chest", "path"], "label": "chest"}
+{"question": "We set up the treasure hunt, but the treasure chest was found easily on the path because the _ was short.", "context": null, "options": ["chest", "path"], "label": "path"}
+{"question": "Donald took medication for their anxiety, but Craig went to therapy because _ was open with their feelings.", "context": null, "options": ["Donald", "Craig"], "label": "Craig"}
+{"question": "Donald took medication for their anxiety, and Craig went to therapy because _ was private with their feelings.", "context": null, "options": ["Donald", "Craig"], "label": "Donald"}
+{"question": "Hunter found they no longer returned Joseph's love in their marriage, therefore _ received divorce papers.", "context": null, "options": ["Hunter", "Joseph"], "label": "Joseph"}
+{"question": "In order to grow his plants naturally, he bought fertilizer and water. The _ was lacking with nutrients.", "context": null, "options": ["fertilizer", "water"], "label": "water"}
+{"question": "In order to grow his plants naturally, he bought fertilizer and water. The _ was filled with nutrients.", "context": null, "options": ["fertilizer", "water"], "label": "fertilizer"}
+{"question": "Kayla threw the phone to Rebecca, then _ asked for it to be thrown back.", "context": null, "options": ["Kayla", "Rebecca"], "label": "Kayla"}
+{"question": "Michael had less money than Samuel did because _ liked to shop and spend money too much.", "context": null, "options": ["Michael", "Samuel"], "label": "Michael"}
+{"question": "Michael had more money than Samuel did because _ like to shop and spend money too much.", "context": null, "options": ["Michael", "Samuel"], "label": "Samuel"}
+{"question": "After a nasty breakup, Kayla needed a restraining order from Samantha because _ was scary to them.", "context": null, "options": ["Kayla", "Samantha"], "label": "Samantha"}
+{"question": "I didn't do well on my exam even though I did all the problems in the textbook correctly. I guess the questions in the _ were just too hard.", "context": null, "options": ["exam", "textbook"], "label": "exam"}
+{"question": "At dinner time, Tanya ate Erin's serving of peas even though _ really likes green vegetables.", "context": null, "options": ["Tanya", "Erin"], "label": "Erin"}
+{"question": "Sally knew the exam would be hard so she developed a study schedule. The _ was 4 weeks long.", "context": null, "options": ["exam", "schedule"], "label": "schedule"}
+{"question": "Sally knew the exam would be hard so she developed a study schedule. The _ was 4 weeks away.", "context": null, "options": ["exam", "schedule"], "label": "exam"}
+{"question": "Jeffrey brushed their teeth quite regularly but Brian did not. _ rarely had to go to a dentist.", "context": null, "options": ["Jeffrey", "Brian"], "label": "Jeffrey"}
+{"question": "Jeffrey brushed their teeth quite regularly but Brian did not. _ had to go to a dentist often.", "context": null, "options": ["Jeffrey", "Brian"], "label": "Brian"}
+{"question": "The kid looked terrible in the ancient  Egyptian dress because the _ was too small.", "context": null, "options": ["dress", "kid"], "label": "kid"}
+{"question": "Monica was worried that Mary might be caught in a scam when they started their new job, but _ decided to trust their friend's judgement.", "context": null, "options": ["Monica", "Mary"], "label": "Monica"}
+{"question": "Brian taught Michael how to feed a rabbit greens because _ had rabbits as a kid.", "context": null, "options": ["Brian", "Michael"], "label": "Brian"}
+{"question": "i had to walk closer to the board to see the phone numbers, only the monogram of the company is visible from a distance. The _ is bold.", "context": null, "options": ["monogram", "number"], "label": "monogram"}
+{"question": "He was having an asthma attack but forgot his inhaler so someone recommended coffee as the _ was unavailable.", "context": null, "options": ["inhaler", "coffee"], "label": "inhaler"}
+{"question": "Amy tried to spread the cake icing all over the cake but the _ was not enough.", "context": null, "options": ["icing", "cake"], "label": "icing"}
+{"question": "Patricia teaches Kindergarten students, Christine teaches High School students therefore _ doesn't read aloud a lot.", "context": null, "options": ["Patricia", "Christine"], "label": "Christine"}
+{"question": "Patricia teaches Kindergarten students, Christine teaches High School students therefore _ reads aloud a lot.", "context": null, "options": ["Patricia", "Christine"], "label": "Patricia"}
+{"question": "Lindsey has dark lips unlike Elena due to _ remembering to put on chapsticks at night.", "context": null, "options": ["Lindsey", "Elena"], "label": "Elena"}
+{"question": "Lindsey has dark lips unlike Elena due to _ forgetting to put on chapsticks at night.", "context": null, "options": ["Lindsey", "Elena"], "label": "Lindsey"}
+{"question": "Joseph has an allergy to mangoes, but Nelson does not, so _ has to be very careful.", "context": null, "options": ["Joseph", "Nelson"], "label": "Joseph"}
+{"question": "Justin went with Donald to the game because _ wanted to be the designated driver.", "context": null, "options": ["Justin", "Donald"], "label": "Justin"}
+{"question": "Mike wanted to make the picture with the Photoshop software instead of  the Paintshop software because the _ was more reliable.", "context": null, "options": ["Photoshop software", "Paintshop software"], "label": "Photoshop software"}
+{"question": "Jason missed his work shift in order to finish his research paper, because the _ was less important.", "context": null, "options": ["work shift", "research paper"], "label": "work shift"}
+{"question": "The paper bags got torn when James was using it to move the groceries. The _ are weak.", "context": null, "options": ["bags", "groceries"], "label": "bags"}
+{"question": "Steven was worried about the height requirements for the rollercoaster more than Dennis was since _ was short.", "context": null, "options": ["Steven", "Dennis"], "label": "Steven"}
+{"question": "Steven was worried about the height requirements for the rollercoaster more than Dennis was since _ was tall.", "context": null, "options": ["Steven", "Dennis"], "label": "Dennis"}
+{"question": "The quill was used by the writer much more than the pen for the job since the _ is heavy.", "context": null, "options": ["quill", "pen"], "label": "pen"}
+{"question": "Joel has experience driving large vehicles and Lawrence doesn't. _ drives their RV with accuracy.", "context": null, "options": ["Joel", "Lawrence"], "label": "Joel"}
+{"question": "She used vinegar to wipe down the cabinets hourly and a wood cleaner monthly.  The _ was overused.", "context": null, "options": ["vinegar", "cleaner"], "label": "vinegar"}
+{"question": "Despite the fact that Joseph was sick and Craig was healthy, _ still stayed home from work that day.", "context": null, "options": ["Joseph", "Craig"], "label": "Craig"}
+{"question": "The teacher asked for the homework. Elena played games the night before and Tanya did not, so _ got an F.", "context": null, "options": ["Elena", "Tanya"], "label": "Elena"}
+{"question": "The teacher asked for the homework. Elena played games the night before and Tanya did not, so _ got an A.", "context": null, "options": ["Elena", "Tanya"], "label": "Tanya"}
+{"question": "William had a fear about nothing unlike Benjamin, because _ had a horrible childhood growing up.", "context": null, "options": ["William", "Benjamin"], "label": "Benjamin"}
+{"question": "The smell in the kitchen of the home is unbearable, while the laundry room smells fine. The _ must have been cleaned longer ago.", "context": null, "options": ["kitchen", "laundry room"], "label": "kitchen"}
+{"question": "The clothing in the north was warmer than the clothing in the south because there was more snow in the _ .", "context": null, "options": ["south", "north"], "label": "north"}
+{"question": "The clothing in the north was warmer than the clothing in the south because there was more sun in the _ .", "context": null, "options": ["south", "north"], "label": "south"}
+{"question": "Ryan grew the houseplant from seed, but Matthew bought a plastic plant instead, because _ tended to neglect plants.", "context": null, "options": ["Ryan", "Matthew"], "label": "Matthew"}
+{"question": "The thief tried to escape over the fence, but the _ was too short for him to climb over.", "context": null, "options": ["fence", "thief"], "label": "thief"}
+{"question": "The rib-eye steak needed some artisan pepper to season it because the _ was flavorful.", "context": null, "options": ["steak", "pepper"], "label": "pepper"}
+{"question": "The rib-eye steak needed some artisan pepper to season it because the _ was bland.", "context": null, "options": ["steak", "pepper"], "label": "steak"}
+{"question": "Neil introduced William, who is very shy, to his friends, but _ was being very embarrassing.", "context": null, "options": ["Neil", "William"], "label": "Neil"}
+{"question": "Neil introduced William, who is very shy, to his friends, but _ was being very quiet.", "context": null, "options": ["Neil", "William"], "label": "William"}
+{"question": "The gas was not smelling out of the tank but out of the hose because the _ is leaky.", "context": null, "options": ["hose", "tank"], "label": "hose"}
+{"question": "The gas was not smelling out of the tank but out of the hose because the _ is sealed.", "context": null, "options": ["hose", "tank"], "label": "tank"}
+{"question": "Laura had a much better body than Katrina, because _ spent all of their time at the ice cream shop.", "context": null, "options": ["Laura", "Katrina"], "label": "Katrina"}
+{"question": "My home is closer to the store than John's house, because the _ of me is next door.", "context": null, "options": ["home", "house"], "label": "home"}
+{"question": "Samantha believed in life after death while Christine did not, so _ never tried to talk to spirits.", "context": null, "options": ["Samantha", "Christine"], "label": "Christine"}
+{"question": "James always had to wash his shoe after jogging on the street but it is not always the same when jogging on the lawn. The _ is clean.", "context": null, "options": ["street", "lawn"], "label": "lawn"}
+{"question": "While at the store, Logan grabbed a head of lettuce for Eric to use for dinner, but _ already had some at home.", "context": null, "options": ["Logan", "Eric"], "label": "Eric"}
+{"question": "While at the store, Logan grabbed a head of lettuce for Eric to use for dinner because _ knew there was none at home.", "context": null, "options": ["Logan", "Eric"], "label": "Logan"}
+{"question": "In the hotel laundry room, Felicia burned Mary's shirt while ironing it, so the manager wrote _ up.", "context": null, "options": ["Felicia", "Mary"], "label": "Felicia"}
+{"question": "In the hotel laundry room, Felicia burned Mary's shirt while ironing it, so the manager gave _ a refund.", "context": null, "options": ["Felicia", "Mary"], "label": "Mary"}
+{"question": "Jeffrey asked Hunter when was the date set for the wedding because _ was getting married.", "context": null, "options": ["Jeffrey", "Hunter"], "label": "Hunter"}
+{"question": "Jeffrey asked Hunter when was the date set for the wedding because _ was his best man.", "context": null, "options": ["Jeffrey", "Hunter"], "label": "Jeffrey"}
+{"question": "Craig had never learned handwriting in school but Michael had learned beautiful script so, _ always typed all their correspondence.", "context": null, "options": ["Craig", "Michael"], "label": "Craig"}
+{"question": "Patricia did laundry by hand, but Lindsey used the electric washer, because _ wore clothes made of delicate fabrics.", "context": null, "options": ["Patricia", "Lindsey"], "label": "Patricia"}
+{"question": "The dancer would leave the stage and enter the hall after her dance was finished, as the _ was where she belonged during the dance.", "context": null, "options": ["stage", "hall"], "label": "stage"}
+{"question": "Derrick needed Kenneth to go to the store and get a baby bib, but _ said the one they had was still ok.", "context": null, "options": ["Derrick", "Kenneth"], "label": "Kenneth"}
+{"question": "His hands were a lot rougher than his thighs, because he used the _ for nothing.", "context": null, "options": ["hands", "thighs"], "label": "thighs"}
+{"question": "Christine told Samantha at court their reasons for their expired license, since _ had the responsibility to attend.", "context": null, "options": ["Christine", "Samantha"], "label": "Christine"}
+{"question": "Christine told Samantha at court their reasons for their expired license, since _ had the responsibility to judge.", "context": null, "options": ["Christine", "Samantha"], "label": "Samantha"}
+{"question": "Craig was all about self-publishing his first album, but a PRO rep Lawrence advised against it. _ advocated for a very hands-on approach to publishing.", "context": null, "options": ["Craig", "Lawrence"], "label": "Craig"}
+{"question": "Craig was all about self-publishing his first album, but a PRO rep Lawrence advised against it. _ advocated for a very hands-off approach to publishing.", "context": null, "options": ["Craig", "Lawrence"], "label": "Lawrence"}
+{"question": "The cleaning crew always used rags instead of washcloths, although the _ tended to wear out quickly.", "context": null, "options": ["washcloths", "rags"], "label": "rags"}
+{"question": "I hated the project this year compared to the essay last year, because the _ required more work.", "context": null, "options": ["project", "essay"], "label": "project"}
+{"question": "While waiting for the movie to begin, Natalie bought popcorn and drinks for Lindsey, since _ had little money.", "context": null, "options": ["Natalie", "Lindsey"], "label": "Lindsey"}
+{"question": "Christopher was able to travel abroad, while William only travelled domestically, as _ had never applied for a passport.", "context": null, "options": ["Christopher", "William"], "label": "William"}
+{"question": "The rubber resisted the rock but snapped on the concrete, as the _ was abrasive.", "context": null, "options": ["rock", "concrete"], "label": "concrete"}
+{"question": "The rubber resisted the rock but snapped on the concrete, as the _ was smooth.", "context": null, "options": ["rock", "concrete"], "label": "rock"}
+{"question": "Al got solar panels and a small generator installed at his house for electricity as the _ would be his main power supply.", "context": null, "options": ["panels", "generator"], "label": "panels"}
+{"question": "The newborns in the nursery were very frail because they were fed the _ calorie food during the high and low calorie experiment..", "context": null, "options": ["high", "low"], "label": "low"}
+{"question": "The newborns in the nursery were very hardy because they were fed the _ calorie food during the high and low calorie experiment.", "context": null, "options": ["high", "low"], "label": "high"}
+{"question": "Jane's hair was bound by a band until the band was cut because the _ is bulky.", "context": null, "options": ["band", "hair"], "label": "hair"}
+{"question": "The patient put in a special request for Brett instead of Kyle because _ was always stern.", "context": null, "options": ["Brett", "Kyle"], "label": "Kyle"}
+{"question": "Rachel decided on adopting a young puppy but Megan didn't because _ didn't want to train a pupply.", "context": null, "options": ["Rachel", "Megan"], "label": "Megan"}
+{"question": "Justin became very ill with pneumonia, so Matthew made him some soup; then _ finally went home.", "context": null, "options": ["Justin", "Matthew"], "label": "Matthew"}
+{"question": "Applying to dance in music videos was great for Erin but not Lindsey because _ was a beginner dancer.", "context": null, "options": ["Erin", "Lindsey"], "label": "Lindsey"}
+{"question": "The landlord said she had violated her lease by allowing a dog into the apartment. She said that the dog did not violate the _ at all.", "context": null, "options": ["apartment", "lease"], "label": "lease"}
+{"question": "Benjamin asked Samuel to buy them a puppy, because _ could not have a pet.", "context": null, "options": ["Benjamin", "Samuel"], "label": "Samuel"}
+{"question": "The jeans fit worse than the shirt because I had tried the _ on at the store.", "context": null, "options": ["jeans", "shirt"], "label": "shirt"}
+{"question": "Nelson teased Christopher about needing to find a homecoming date because _ could not find one.", "context": null, "options": ["Nelson", "Christopher"], "label": "Christopher"}
+{"question": "Nelson teased Christopher about needing to find a homecoming date because _ already had one.", "context": null, "options": ["Nelson", "Christopher"], "label": "Nelson"}
+{"question": "The athletes on the team of Christine were more tired than those on the team of Monica because the ones with _ did less laps.", "context": null, "options": ["Christine", "Monica"], "label": "Monica"}
+{"question": "The athletes on the team of Christine were less tired than those on the team of Monica because the ones with _ did less laps.", "context": null, "options": ["Christine", "Monica"], "label": "Christine"}
+{"question": "John could not buy anything from the store than night and he went to the kiosk to buy some things because the _ is opened.", "context": null, "options": ["store", "kiosk"], "label": "kiosk"}
+{"question": "In order to increase her estrogen, Jenny started eating carrots instead of donuts because the _ were not junky.", "context": null, "options": ["donuts", "carrots"], "label": "carrots"}
+{"question": "It smelled a lot better near the pool than it did near the compost because there was no garbage in the _ .", "context": null, "options": ["compost", "pool"], "label": "pool"}
+{"question": "James was able to hide the book inside his jacket because the _ is small.", "context": null, "options": ["book", "jacket"], "label": "book"}
+{"question": "James was able to hide the book inside his jacket because the _ is big.", "context": null, "options": ["book", "jacket"], "label": "jacket"}
+{"question": "Ian laughs at Ryan because of the small Christmas tree they picked out. _ wants a table top tree.", "context": null, "options": ["Ian", "Ryan"], "label": "Ryan"}
+{"question": "Ian laughs at Ryan because of the small Christmas tree they picked out. _ wants a six foot tree.", "context": null, "options": ["Ian", "Ryan"], "label": "Ian"}
+{"question": "Betty gave the full pitcher to Rachel so _ could fill her glass with water.", "context": null, "options": ["Betty", "Rachel"], "label": "Rachel"}
+{"question": "Brett looks as if they are aging at half the rate of Craig because _ has lived a rough lifestyle.", "context": null, "options": ["Brett", "Craig"], "label": "Craig"}
+{"question": "Rachel's date was shorter than she, so she wore her shoes rather than her boots, because the _ had high heels.", "context": null, "options": ["shoes", "boots"], "label": "boots"}
+{"question": "Rachel's date was shorter than she, so she wore her shoes rather than her boots, because the _ had low heels.", "context": null, "options": ["shoes", "boots"], "label": "shoes"}
+{"question": "The store had 80 platters but only 2 bowls left in stock because the _ were in high demand.", "context": null, "options": ["platters", "bowls"], "label": "bowls"}
+{"question": "The store had 80 platters but only 2 bowls left in stock because the _ were in low demand.", "context": null, "options": ["platters", "bowls"], "label": "platters"}
+{"question": "Sarah had to call in an expert unlike Erin because _ had no knowledge on the subject.", "context": null, "options": ["Sarah", "Erin"], "label": "Sarah"}
+{"question": "Sarah had to call in an expert unlike Erin because _ had vast knowledge on the subject.", "context": null, "options": ["Sarah", "Erin"], "label": "Erin"}
+{"question": "Monica really enjoys a vodka drink, but Felicia prefers whiskey because _ likes dark liquors.", "context": null, "options": ["Monica", "Felicia"], "label": "Felicia"}
+{"question": "Monica really enjoys a vodka drink, but Felicia prefers whiskey because _ likes clear liquors.", "context": null, "options": ["Monica", "Felicia"], "label": "Monica"}
+{"question": "The knee injury of Samantha has healed much quicker than Katrina's. _ 's injury was minor.", "context": null, "options": ["Samantha", "Katrina"], "label": "Samantha"}
+{"question": "Cynthia felt very thirsty but Sarah did not feel thirsty. _ bought a bag of chips.", "context": null, "options": ["Cynthia", "Sarah"], "label": "Sarah"}
+{"question": "Samantha failed on the test but Mary got very good marks because _ had been very lazy.", "context": null, "options": ["Samantha", "Mary"], "label": "Samantha"}
+{"question": "Kyle wanted to write to Aaron every day, because _ enjoyed sending letters to friends.", "context": null, "options": ["Kyle", "Aaron"], "label": "Kyle"}
+{"question": "Kyle wanted to write to Aaron every day, because _ enjoyed receiving letters from friends.", "context": null, "options": ["Kyle", "Aaron"], "label": "Aaron"}
+{"question": "The toddler kicked the soft furniture and hard toy, but only the _ caused pain.", "context": null, "options": ["furniture", "toy"], "label": "toy"}
+{"question": "The toddler kicked the hard furniture and soft toy, but only the _ caused pain.", "context": null, "options": ["furniture", "toy"], "label": "furniture"}
+{"question": "Jessica saw Laura constantly flirt with men in the office. _ thought it was normal in a place of business and she was admired by their coworkers.", "context": null, "options": ["Jessica", "Laura"], "label": "Laura"}
+{"question": "Much to the dismay of Christopher, Jeffrey learned of their evil plan, and _ was stopped before it succeeded.", "context": null, "options": ["Christopher", "Jeffrey"], "label": "Christopher"}
+{"question": "The student wanted to be respectful to the teacher so he got her a book instead of an apple because the _ was old.", "context": null, "options": ["book", "apple"], "label": "apple"}
+{"question": "Samantha's main artistic medium was paint, while Patricia preferred to work with clay, since _ was trained as a sculptor.", "context": null, "options": ["Samantha", "Patricia"], "label": "Patricia"}
+{"question": "Neil asked Brian to hand him the measuring tape, but _ already measured the wall to center the picture.", "context": null, "options": ["Neil", "Brian"], "label": "Brian"}
+{"question": "The creams didn't work as well on my skin as the lotions did because the _ were new.", "context": null, "options": ["creams", "lotions"], "label": "lotions"}
+{"question": "Kiwis are a favorite of Ryan, while Derrick can't eat them. _ has sensitive teeth.", "context": null, "options": ["Ryan", "Derrick"], "label": "Derrick"}
+{"question": "Although Amy worked harder and longer than Rebecca, _ was a more wealthy person overall.", "context": null, "options": ["Amy", "Rebecca"], "label": "Rebecca"}
+{"question": "James wanted to write a list of what he can do for Christmas and he ended up using all the pages in the notepad. The _ is long.", "context": null, "options": ["list", "page"], "label": "list"}
+{"question": "James wanted to write a list of what he can do for Christmas and he ended up using all the pages in the notepad. The _ is short.", "context": null, "options": ["list", "page"], "label": "page"}
+{"question": "Samantha gifted her new bathrobe to Betty because it felt very comfortable for _ when she tried it on.", "context": null, "options": ["Samantha", "Betty"], "label": "Betty"}
+{"question": "Samantha gifted her new bathrobe to Betty because it felt very itchy for _ when she tried it on.", "context": null, "options": ["Samantha", "Betty"], "label": "Samantha"}
+{"question": "The chopstick were better to eat the noodles with than the fork as the _ was repaired.", "context": null, "options": ["chopstick", "fork"], "label": "chopstick"}
+{"question": "James was finding a space on the couch for the box to be placed but he could not find it because the _ is big.", "context": null, "options": ["box", "couch"], "label": "box"}
+{"question": "Michael loved eating many different vegetables but not Brett because _ was on a vegetarian diet.", "context": null, "options": ["Michael", "Brett"], "label": "Michael"}
+{"question": "It was painful for Justin to break up with Jason, but _ wasn't ready to move on.", "context": null, "options": ["Justin", "Jason"], "label": "Jason"}
+{"question": "Needing a boost Emily asked Rachel to put them on their shoulders in order to reach the roof, _  is tall in height.", "context": null, "options": ["Emily", "Rachel"], "label": "Rachel"}
+{"question": "Bill had complicated feelings about getting a car after his motorcycle died because the _ possessed a lot of new features.", "context": null, "options": ["car", "motorcycle"], "label": "car"}
+{"question": "Bill had complicated feelings about getting a car after his motorcycle died because the _ possessed a lot of sentimental value.", "context": null, "options": ["car", "motorcycle"], "label": "motorcycle"}
+{"question": "As a marine, Emily looks down on civilians like Maria, so _ is a bit saddened.", "context": null, "options": ["Emily", "Maria"], "label": "Maria"}
+{"question": "Kyle makes a lot more money than Nelson can make at his job, as _ is a cashier.", "context": null, "options": ["Kyle", "Nelson"], "label": "Nelson"}
+{"question": "The food that Hunter ate was spoiled but not that of Brett because _ left his food outside.", "context": null, "options": ["Hunter", "Brett"], "label": "Hunter"}
+{"question": "The food that Hunter ate was spoiled but not that of Brett because _ left his food in the fridge.", "context": null, "options": ["Hunter", "Brett"], "label": "Brett"}
+{"question": "Laura held the steel for their project while Carrie used the blowtorch, because _ was more skilled.", "context": null, "options": ["Laura", "Carrie"], "label": "Carrie"}
+{"question": "Amy recognized the man in the waiting room before Monica did, because _ had met the man only once.", "context": null, "options": ["Amy", "Monica"], "label": "Monica"}
+{"question": "Nick smelled much worse than Kenneth after the baseball game although _ was wearing deodorant.", "context": null, "options": ["Nick", "Kenneth"], "label": "Nick"}
+{"question": "Mark wanted to lose some weight by starting a diet and workout routine.  He focused mainly on the _ because he was lazy.", "context": null, "options": ["workout routine", "diet"], "label": "diet"}
+{"question": "The drink was rich in caffeine and low in sugar because the _ was suffice in keeping the drinker awake.", "context": null, "options": ["caffeine", "sugar"], "label": "caffeine"}
+{"question": "The drink was rich in caffeine and low in sugar because the _ was not enough to keep the drinker awake.", "context": null, "options": ["caffeine", "sugar"], "label": "sugar"}
+{"question": "The tree fell down sooner than the sapling because the roots of the _ were stronger.", "context": null, "options": ["tree", "sapling"], "label": "tree"}
+{"question": "The tree fell down after the sapling because the roots of the _ were weaker.", "context": null, "options": ["tree", "sapling"], "label": "sapling"}
+{"question": "The man with the fever came over and talked to Carrie and not Lindsey because _ was a patient.", "context": null, "options": ["Carrie", "Lindsey"], "label": "Lindsey"}
+{"question": "Samantha told Lindsey to be careful with the porcelain doll; when she ignored her and dropped the doll, _ was very sorry.", "context": null, "options": ["Samantha", "Lindsey"], "label": "Lindsey"}
+{"question": "The Windows software attempted to install the upgrades onto the computer, but the _ exceeded data capacity.", "context": null, "options": ["software", "computer"], "label": "software"}
+{"question": "The Windows software attempted to install the upgrades onto the computer, but the _ was outdated.", "context": null, "options": ["software", "computer"], "label": "computer"}
+{"question": "James could not lift the bottle of water up to the table top because the _ is tall.", "context": null, "options": ["table", "bottle"], "label": "table"}
+{"question": "Maria gave birth to Katrina, so after the process was over, _ was a brand new mother.", "context": null, "options": ["Maria", "Katrina"], "label": "Maria"}
+{"question": "Jan planted her herbs in small growing bags, but she worried that the _ would be too shallow for them to put down roots.", "context": null, "options": ["herbs", "bags"], "label": "bags"}
+{"question": "Jan planted her herbs in small growing bags, but she worried that the _ would be too stifled to put down roots.", "context": null, "options": ["herbs", "bags"], "label": "herbs"}
+{"question": "Writing came easily to Carrie but was difficult for Natalie because _ had taken engineering in college.", "context": null, "options": ["Carrie", "Natalie"], "label": "Natalie"}
+{"question": "Katrina asked Rachel to change the diapers for the babies this morning because _ is handling the stove.", "context": null, "options": ["Katrina", "Rachel"], "label": "Katrina"}
+{"question": "Katrina asked Rachel to change the diapers for the babies this morning because _ isn't doing anything.", "context": null, "options": ["Katrina", "Rachel"], "label": "Rachel"}
+{"question": "Brett took more medicines than Aaron did although _ was suffering from many more diseases.", "context": null, "options": ["Brett", "Aaron"], "label": "Aaron"}
+{"question": "The life of Christine was pretty basic until they met Maria , _ is a  is lover of excitement .", "context": null, "options": ["Christine", "Maria"], "label": "Maria"}
+{"question": "Benjamin lied to Logan because _ was so upset about the money that was missing.", "context": null, "options": ["Benjamin", "Logan"], "label": "Logan"}
+{"question": "Samantha decided to mix the mortar while Rebecca applied it to the wall. _ was not good at the finishing touches.", "context": null, "options": ["Samantha", "Rebecca"], "label": "Samantha"}
+{"question": "Derrick greeted Craig at the event but he did not respond to him because _ is humble.", "context": null, "options": ["Derrick", "Craig"], "label": "Derrick"}
+{"question": "Derrick greeted Craig at the event but he did not respond to him because _ is arrogant.", "context": null, "options": ["Derrick", "Craig"], "label": "Craig"}
+{"question": "Monica chose Kayla as the winning contestant on the reality show because _ was a contestant on the show.", "context": null, "options": ["Monica", "Kayla"], "label": "Kayla"}
+{"question": "Michael swam in the pond for longer than Derrick because _ thought the algae was okay.", "context": null, "options": ["Michael", "Derrick"], "label": "Michael"}
+{"question": "Kenneth worked hard at training martial arts but not Samuel. _ couldn't made their dream come true of fighting in the UFC octagon.", "context": null, "options": ["Kenneth", "Samuel"], "label": "Samuel"}
+{"question": "Because Megan wanted to be a welder and Patricia wanted to be a engineer, _ went to university instead of trade school.", "context": null, "options": ["Megan", "Patricia"], "label": "Patricia"}
+{"question": "Because Megan wanted to be a welder and Patricia wanted to be a engineer, _ went to trade school instead of university.", "context": null, "options": ["Megan", "Patricia"], "label": "Megan"}
+{"question": "The man took longer to pay for the shoes than the shirt because he paid for the _ in coins.", "context": null, "options": ["shoes", "shirt"], "label": "shoes"}
+{"question": "The man took longer to pay for the shoes than the shirt although he paid for the _ in coins.", "context": null, "options": ["shoes", "shirt"], "label": "shirt"}
+{"question": "James was able to hide to gift he brought wit him in his pocket because the _ is big.", "context": null, "options": ["gift", "pocket"], "label": "pocket"}
+{"question": "James was able to hide to gift he brought wit him in his pocket because the _ is small.", "context": null, "options": ["gift", "pocket"], "label": "gift"}
+{"question": "Sometimes I write in my journal with a pencil instead of a pen, but the _ can be run dry.", "context": null, "options": ["pencil", "pen"], "label": "pen"}
+{"question": "John cannot run the entire length of the track, he had been used to the field. The _ is short.", "context": null, "options": ["track", "field"], "label": "field"}
+{"question": "John had to bow to walk through the door but have to crawl to enter the tent. The _ is taller.", "context": null, "options": ["door", "tent"], "label": "door"}
+{"question": "John had to bow to walk through the door but have to crawl to enter the tent. The _ is shorter.", "context": null, "options": ["door", "tent"], "label": "tent"}
+{"question": "Adam's blushed a deep red when Jeffrey saw him fall off his horse, but _ tried to pretend it didn't hurt.", "context": null, "options": ["Adam", "Jeffrey"], "label": "Adam"}
+{"question": "When Leslie told Aaron he only wanted to eat food that was healthy, he was laughed at. The teacher comforted _ immediately.", "context": null, "options": ["Leslie", "Aaron"], "label": "Leslie"}
+{"question": "When Leslie told Aaron he only wanted to eat food that was healthy, he was laughed at. The teacher scolded _ immediately.", "context": null, "options": ["Leslie", "Aaron"], "label": "Aaron"}
+{"question": "The doctor treated Natalie, but refused to see Tanya, because _ has an incredible insurance plan.", "context": null, "options": ["Natalie", "Tanya"], "label": "Natalie"}
+{"question": "Jessica asked Rebecca to go see a new horror movie even though _ knew she would likely to decline the invitation.", "context": null, "options": ["Jessica", "Rebecca"], "label": "Jessica"}
+{"question": "It doesn't take much to shift between ice and water. The _ is hard and strong when its cold.", "context": null, "options": ["water", "ice"], "label": "ice"}
+{"question": "It doesn't take much to shift between ice and water. The _ is fluid and flexible when its warm.", "context": null, "options": ["water", "ice"], "label": "water"}
+{"question": "Amy's being taught how to pay it forward by Kayla, so _ is likely the younger person.", "context": null, "options": ["Amy", "Kayla"], "label": "Amy"}
+{"question": "Steven asked Joseph to have their stomach examined after _ had a night full of really bad gas issues.", "context": null, "options": ["Steven", "Joseph"], "label": "Joseph"}
+{"question": "The assertive commander told the privates to change their boots but not their shirts because the _ were disgusting.", "context": null, "options": ["boots", "shirts"], "label": "boots"}
+{"question": "The assertive commander told the privates to change their boots but not their shirts because the _ were fine.", "context": null, "options": ["boots", "shirts"], "label": "shirts"}
+{"question": "The chef decided to omit the chicken from his signature dish for the party, because the _ needed to be vegetarian.", "context": null, "options": ["dish", "party"], "label": "dish"}
+{"question": "Timmy bought a transporter for his cat so he could take him on the plane but the _ was too small.", "context": null, "options": ["transporter", "plane"], "label": "transporter"}
+{"question": "Felicia was given a leather belt from Betty to clean it, because _ knows how to do it.", "context": null, "options": ["Felicia", "Betty"], "label": "Felicia"}
+{"question": "Felicia was given a leather belt from Betty to clean it, because _ doesn't know how to clean it.", "context": null, "options": ["Felicia", "Betty"], "label": "Betty"}
+{"question": "Eric replaced his long hair with a new hat for the summer time, the _ was old.", "context": null, "options": ["hair", "hat"], "label": "hair"}
+{"question": "Hunter had low tire pressure and asked Eric to fill the tires; when he said no, _ filled the tires.", "context": null, "options": ["Hunter", "Eric"], "label": "Hunter"}
+{"question": "Carrie tried to convince Cynthia that the cat needed a microchip because _ was concerned about the cat getting lost.", "context": null, "options": ["Carrie", "Cynthia"], "label": "Carrie"}
+{"question": "The doctor felt more sympathy for Aaron than Ryan because _ had a curable illness and great insurance.", "context": null, "options": ["Aaron", "Ryan"], "label": "Ryan"}
+{"question": "Emily delivered the daily newspaper to Samantha promptly, so _ gave a nice Christmas bonus.", "context": null, "options": ["Emily", "Samantha"], "label": "Samantha"}
+{"question": "Emily delivered the daily newspaper to Samantha promptly, so _ expected a nice Christmas bonus.", "context": null, "options": ["Emily", "Samantha"], "label": "Emily"}
+{"question": "Jack wanted to start a game, but couldn't decide between baseball or basketball. The _ game would needed fewer of friends.", "context": null, "options": ["baseball", "basketball"], "label": "basketball"}
+{"question": "Jack wanted to start a game, but couldn't decide between baseball or basketball. The _ game would call for more friends.", "context": null, "options": ["baseball", "basketball"], "label": "baseball"}
+{"question": "James wanted to wear the corsage but it wouldn't fit around his wrist because his _ was too small.", "context": null, "options": ["wrist", "corsage"], "label": "corsage"}
+{"question": "James wanted to wear the corsage but it wouldn't fit around his wrist because the _ was too big.", "context": null, "options": ["wrist", "corsage"], "label": "wrist"}
+{"question": "Laura was climbing down from the roof and Katrina was below so, _ was holding the ladder.", "context": null, "options": ["Laura", "Katrina"], "label": "Katrina"}
+{"question": "Bill could only go out to the restaurants rather than the bars because going to the _ required a minimum age.", "context": null, "options": ["restaurants", "bars"], "label": "bars"}
+{"question": "Katrina demanded that Jessica get off of their property, because _ was in the neighborhood for visiting.", "context": null, "options": ["Katrina", "Jessica"], "label": "Jessica"}
+{"question": "Katrina demanded that Jessica get off of their property, because _ wasn't in the mood for visiting.", "context": null, "options": ["Katrina", "Jessica"], "label": "Katrina"}
+{"question": "At the hospital, Kenneth tended to Randy 's wounds as _ was learning to contain an infection.", "context": null, "options": ["Kenneth", "Randy"], "label": "Kenneth"}
+{"question": "Justin admired the art hung on the wall by Nick, so _ asked if he would like to take something home.", "context": null, "options": ["Justin", "Nick"], "label": "Nick"}
+{"question": "The man chose medication for his infection rather than the ointment, because the _ was ineffective.", "context": null, "options": ["ointment", "medication"], "label": "ointment"}
+{"question": "Mary felt a great deal of guilt for stealing various items from Rachel so _ forgave her.", "context": null, "options": ["Mary", "Rachel"], "label": "Rachel"}
+{"question": "Dennis warned Craig if they were late to work agian they would suffer termination, _ works for the boss at the local factory.", "context": null, "options": ["Dennis", "Craig"], "label": "Craig"}
+{"question": "Patricia bought Christine a watch for their birthday because _ was tired of asking about the time.", "context": null, "options": ["Patricia", "Christine"], "label": "Christine"}
+{"question": "The teenager chose a jeweled pin for her belly piercing, but the _ was too tiny.", "context": null, "options": ["piercing", "pin"], "label": "piercing"}
+{"question": "The teenager chose a jeweled pin for her belly piercing, but the _ was too huge.", "context": null, "options": ["piercing", "pin"], "label": "pin"}
+{"question": "After visiting their tenth college, Kevin asked Donald to just make up his mind, because _ just didn't have time for more.", "context": null, "options": ["Kevin", "Donald"], "label": "Kevin"}
+{"question": "After visiting their tenth college, Kevin demanded that Donald to just make up _ 's mind, because he just didn't have time for more.", "context": null, "options": ["Kevin", "Donald"], "label": "Donald"}
+{"question": "At the store, John signed a warranty contract for the tablet, but did not purchase insurance for the phone, because the _ was unlikely to be damaged.", "context": null, "options": ["tablet", "phone"], "label": "phone"}
+{"question": "At the store, John signed a warranty contract for the tablet, but did not purchase insurance for the phone, because the _ was likely to be damaged.", "context": null, "options": ["tablet", "phone"], "label": "tablet"}
+{"question": "Bob had a love and hate relationship with gambling and the _ grew as he won more money.", "context": null, "options": ["love", "hate"], "label": "love"}
+{"question": "Christine was tired of Maria being a pain in the neck after _ laid down the prank trap.", "context": null, "options": ["Christine", "Maria"], "label": "Maria"}
+{"question": "When Derrick told Christopher about quitting school to provide for their family, _ started panicking.", "context": null, "options": ["Derrick", "Christopher"], "label": "Derrick"}
+{"question": "The food Katrina made was very bland, so Victoria added some salt; _ felt bad and vowed not to season again.", "context": null, "options": ["Katrina", "Victoria"], "label": "Victoria"}
+{"question": "She was the prettiest in the room, wearing a pretty dress and jewelry. The _ was sparkling.", "context": null, "options": ["dress", "jewelry"], "label": "jewelry"}
+{"question": "Jason hired his coworker to paint the house instead of hiring a painting company, because the _ will do it for more money.", "context": null, "options": ["coworker", "painting company"], "label": "painting company"}
+{"question": "The crops in the facility grew better than in the greenhouse since the _ was bright inside.", "context": null, "options": ["facility", "greenhouse"], "label": "facility"}
+{"question": "Beautiful roses were bought by Jason for Dennis because _ is a receiver in general.", "context": null, "options": ["Jason", "Dennis"], "label": "Dennis"}
+{"question": "The battery of the the phone died faster than the laptop battery, because the _ was always off.", "context": null, "options": ["phone", "laptop"], "label": "laptop"}
+{"question": "The battery of the the phone died faster than the laptop battery, because the _ was always on.", "context": null, "options": ["phone", "laptop"], "label": "phone"}
+{"question": "Felicia ran out of shirts and borrowed one from Patricia, but _ didn't ask permission ahead of time.", "context": null, "options": ["Felicia", "Patricia"], "label": "Felicia"}
+{"question": "I wanted to use pomade on my hair instead of hairspray but it was old so the _ was unusable.", "context": null, "options": ["pomade", "hairspray"], "label": "pomade"}
+{"question": "Megan picked up some olive oil for Felicia because _ hated to cook but loved to eat.", "context": null, "options": ["Megan", "Felicia"], "label": "Megan"}
+{"question": "Megan picked up some olive oil for Felicia because _ loved to cook but hated to eat.", "context": null, "options": ["Megan", "Felicia"], "label": "Felicia"}
+{"question": "Ian always got ready quickly in the morning and ended up waiting for Christopher, _ was always punctual.", "context": null, "options": ["Ian", "Christopher"], "label": "Ian"}
+{"question": "Kayla always wears sunscreen outdoors but Natalie doesn't because _ isn't concerned about getting neck wrinkles.", "context": null, "options": ["Kayla", "Natalie"], "label": "Natalie"}
+{"question": "Felicia wanted to be pampered by Emily, so _ went to the jewelry store and bought an expensive ring.", "context": null, "options": ["Felicia", "Emily"], "label": "Emily"}
+{"question": "The man couldn't stop thinking about the violin and the crossbow he lost when he was younger. He used to love to shoot _ .", "context": null, "options": ["violin", "crossbow"], "label": "crossbow"}
+{"question": "Mastering the game of chess was easier for Brian than William because _ had an analytical mind.", "context": null, "options": ["Brian", "William"], "label": "Brian"}
+{"question": "The gerbil came over to Laura but not Monica because _ was holding a hockey stick.", "context": null, "options": ["Laura", "Monica"], "label": "Monica"}
+{"question": "The gerbil came over to Laura but not Monica because _ was holding a carrot stick.", "context": null, "options": ["Laura", "Monica"], "label": "Laura"}
+{"question": "Kyle loved to camp in the wilderness but Justin preferred a nice hotel. _ booked a trip to New York City.", "context": null, "options": ["Kyle", "Justin"], "label": "Justin"}
+{"question": "Kyle loved to camp in the wilderness but Justin preferred a nice hotel. _ booked a trip to Yellowstone Park.", "context": null, "options": ["Kyle", "Justin"], "label": "Kyle"}
+{"question": "The _ car was a pleasure to drive but the red car was not as the blue car was very expensive.", "context": null, "options": ["blue", "red"], "label": "blue"}
+{"question": "The blue car was a pleasure to drive but the _ car was not as the red car was very cheap.", "context": null, "options": ["blue", "red"], "label": "red"}
+{"question": "Samantha wanted to use a valet to park the car but Carrie did not because _ was generous with money.", "context": null, "options": ["Samantha", "Carrie"], "label": "Samantha"}
+{"question": "The trumpet part overpowered the reeds but could not be heard over the strings, as the _ were just too quiet .", "context": null, "options": ["reeds", "strings"], "label": "reeds"}
+{"question": "James forgot to put the food in the freezer so he had to eat the fruits the next day because the _ is rotting.", "context": null, "options": ["food", "fruit"], "label": "food"}
+{"question": "The patient took calcium to fix his broken bone but the _ was too weak.", "context": null, "options": ["bone", "calcium"], "label": "bone"}
+{"question": "The patient took calcium to fix his broken bone but the _ was too strong.", "context": null, "options": ["bone", "calcium"], "label": "calcium"}
+{"question": "Emily has never struggled with blood clots like Victoria has, because _ lives a sedentary, gluttonous lifestyle.", "context": null, "options": ["Emily", "Victoria"], "label": "Victoria"}
+{"question": "On the playground at school during recess, Monica called Emily a chicken because _ was capable of climbing the ladder.", "context": null, "options": ["Monica", "Emily"], "label": "Monica"}
+{"question": "On the playground at school during recess, Monica called Emily a chicken because _ was scared of climbing the ladder.", "context": null, "options": ["Monica", "Emily"], "label": "Emily"}
+{"question": "Hannah had to get a lawyer to help her understanding of the contract language because the _ the contract had was too complex.", "context": null, "options": ["language", "understanding"], "label": "language"}
+{"question": "Mary loved to make baked potatoes, but Monica couldn't stand the smell; _ asked her to only make them when she was alone.", "context": null, "options": ["Mary", "Monica"], "label": "Monica"}
+{"question": "Mary loved to make baked potatoes, but Monica couldn't stand the smell; _ only made them when she was alone.", "context": null, "options": ["Mary", "Monica"], "label": "Mary"}
+{"question": "The fisherman wanted to put the rock in the pond but the _ was too small.", "context": null, "options": ["pond", "rock"], "label": "pond"}
+{"question": "Joe did a lot worse on the quiz last week than he did on the test today, because the _ was a surprise.", "context": null, "options": ["quiz", "test"], "label": "quiz"}
+{"question": "Elena was asked by Jessica to put patches in the holes in her pants; _ gave her some she bought at the store.", "context": null, "options": ["Elena", "Jessica"], "label": "Jessica"}
+{"question": "Elena was asked by Jessica to put patches in the holes in her pants; _ used some she already had at home.", "context": null, "options": ["Elena", "Jessica"], "label": "Elena"}
+{"question": "Learning a new form of karate was difficult for Logan but not William because _ was not athletic.", "context": null, "options": ["Logan", "William"], "label": "Logan"}
+{"question": "Brian wanted a horse but not Nick because _ raised cattle in their spare time.", "context": null, "options": ["Brian", "Nick"], "label": "Brian"}
+{"question": "Elena liked lizards more than Rachel did, so _ was appalled to receive a pet gecko for her birthday.", "context": null, "options": ["Elena", "Rachel"], "label": "Rachel"}
+{"question": "Logan preferred to snowboard while Kyle wanted to do biathlon so _ went up the hill.", "context": null, "options": ["Logan", "Kyle"], "label": "Logan"}
+{"question": "She watered the rose but not the cactus, because the soil of the _ was already wet.", "context": null, "options": ["rose", "cactus"], "label": "cactus"}
+{"question": "She watered the rose but not the cactus, because the soil of the _ was already dry.", "context": null, "options": ["rose", "cactus"], "label": "rose"}
+{"question": "Nick did not like sauces made from tomato, only creamy sauces. Ryan knew this so he only made white sauce when _ came over.", "context": null, "options": ["Nick", "Ryan"], "label": "Nick"}
+{"question": "The ingredients that I use are tastier than the available toppings because the _ are old.", "context": null, "options": ["ingredients", "toppings"], "label": "toppings"}
+{"question": "Rachel knew exactly how to treat the injured person's wound but not Emily because _ took a woodworking class in high school.", "context": null, "options": ["Rachel", "Emily"], "label": "Emily"}
+{"question": "The dress could use either velcro or a zipper to close, the _ would last longer.", "context": null, "options": ["velcro", "zipper"], "label": "zipper"}
+{"question": "The class was going on a bus on a field trip to a local museum. The _ had to close at 4.", "context": null, "options": ["bus", "museum"], "label": "museum"}
+{"question": "Kelly was embarrassed when his toga fell off at the party and people saw his underwear because the _ was too tight.", "context": null, "options": ["toga", "underwear"], "label": "underwear"}
+{"question": "Kelly was embarrassed when his toga fell off at the party and people saw his underwear because the _ was too loose.", "context": null, "options": ["toga", "underwear"], "label": "toga"}
+{"question": "Kayla was always thinner than Rachel because _ enjoyed eating brioche and butter every morning.", "context": null, "options": ["Kayla", "Rachel"], "label": "Rachel"}
+{"question": "Robert has no regret for punching Justin in the nose even though _ was the victim of injustice.", "context": null, "options": ["Robert", "Justin"], "label": "Justin"}
+{"question": "Robert has no regret for punching Justin in the nose because _ was the victim of injustice.", "context": null, "options": ["Robert", "Justin"], "label": "Robert"}
+{"question": "The dark circles under Erin's eyes were darker than Cynthia's due to _ being older.", "context": null, "options": ["Erin", "Cynthia"], "label": "Erin"}
+{"question": "The cake got burnt under the heat applied to it. It appears the _ is too small.", "context": null, "options": ["cake", "heat"], "label": "cake"}
+{"question": "Harper wanted to wear a cowboy hat and a bolero tie to her party, but the _ didn't fit her head.", "context": null, "options": ["tie", "hat"], "label": "hat"}
+{"question": "Laura put fruit in their pie for Lindsey to eat, and _ ate half the pie after that one was done baking.", "context": null, "options": ["Laura", "Lindsey"], "label": "Lindsey"}
+{"question": "I started a program for youth that worked better than the old system, because the _ is new.", "context": null, "options": ["program", "system"], "label": "program"}
+{"question": "William was very comfortable entering Kenneth 's personal domain any time, as _ was very self-assured.", "context": null, "options": ["William", "Kenneth"], "label": "William"}
+{"question": "Tanya recently finished filling out a job application but not Megan because _ is currently unemployed.", "context": null, "options": ["Tanya", "Megan"], "label": "Tanya"}
+{"question": "Tanya recently finished filling out a job application but not Megan because _ is currently working.", "context": null, "options": ["Tanya", "Megan"], "label": "Megan"}
+{"question": "Lawrence had lost a lot of weight on their diet but Hunter wasn't nearly as succesful. _ was now heavy.", "context": null, "options": ["Lawrence", "Hunter"], "label": "Hunter"}
+{"question": "Lindsey did not know how to make a good impression for an interview with Tanya. _ was surprised when she did not get the job.", "context": null, "options": ["Lindsey", "Tanya"], "label": "Lindsey"}
+{"question": "Tanya wanted to audition for the show that Sarah was casting, so _ watched her routine very carefully.", "context": null, "options": ["Tanya", "Sarah"], "label": "Sarah"}
+{"question": "When it came to taking care of elderly people, Adam was suited for the job more than Brian because _ lived with younger people longer.", "context": null, "options": ["Adam", "Brian"], "label": "Brian"}
+{"question": "Felicia experienced a tummy ache while Tanya did not because _ had not eaten any food.", "context": null, "options": ["Felicia", "Tanya"], "label": "Tanya"}
+{"question": "Erin was self-conscious of her legs and Katrina didn't help by making fun of them, but _ went to the gym to try and help her.", "context": null, "options": ["Erin", "Katrina"], "label": "Katrina"}
+{"question": "While shopping at the mall, Kevin asked Benjamin to help find a red shirt to wear because _ was great at clothing budgeting.", "context": null, "options": ["Kevin", "Benjamin"], "label": "Benjamin"}
+{"question": "As a parent, Catherine doesn't let her kids watch movies, but they can watch some TV shows. Catherine thinks the _ are too violent.", "context": null, "options": ["movies", "TV shows"], "label": "movies"}
+{"question": "Lindsey loves dogs and doesn't have one of her own. So when Amy visits with her dog, _ gives it treats and spoils it.", "context": null, "options": ["Lindsey", "Amy"], "label": "Lindsey"}
+{"question": "the scanning tool could not get through the cervix because the _ was too big.", "context": null, "options": ["cervix", "tool"], "label": "tool"}
+{"question": "the scanning tool could not get through the cervix because the _ was too small.", "context": null, "options": ["cervix", "tool"], "label": "cervix"}
+{"question": "Mary didn't know what the currency of Mexico was but Lindsey knew _ had never been to Mexico before.", "context": null, "options": ["Mary", "Lindsey"], "label": "Mary"}
+{"question": "Megan sentenced Jennifer to probation for stealing from the grocery store, _ obeys the laws that are written.", "context": null, "options": ["Megan", "Jennifer"], "label": "Megan"}
+{"question": "Mary thinks Sarah has beautiful skin, even though _ actually has the better complexion of the two.", "context": null, "options": ["Mary", "Sarah"], "label": "Mary"}
+{"question": "Patricia loved the smell of Rachel's shampoo, so she asked where to buy it. _ gave her a bottle the next day.", "context": null, "options": ["Patricia", "Rachel"], "label": "Rachel"}
+{"question": "Donald had to drive Matthew to the doctor immediately because _ was feeling lightheaded and dizzy.", "context": null, "options": ["Donald", "Matthew"], "label": "Matthew"}
+{"question": "The apartment Brett rented was owned by Jason, so _ sent the rent for the apartment each month.", "context": null, "options": ["Brett", "Jason"], "label": "Brett"}
+{"question": "The apartment Brett rented was owned by Jason, so _ received the rent for the apartment each month.", "context": null, "options": ["Brett", "Jason"], "label": "Jason"}
+{"question": "I don't want to use that iron on my new shirt, and, yes, it's because the _ is too expensive.", "context": null, "options": ["iron", "shirt"], "label": "shirt"}
+{"question": "I don't want to use that iron on my new shirt, and, yes, it's because the _ is too cheap.", "context": null, "options": ["iron", "shirt"], "label": "iron"}
+{"question": "The wound caused by the bullet needed more care than the one caused by the knife because the _ wound was superficial.", "context": null, "options": ["bullet", "knife"], "label": "knife"}
+{"question": "Kyle was in a lot of pain after running the marathon in place of Brian, but _ appreciated the support of his cause.", "context": null, "options": ["Kyle", "Brian"], "label": "Brian"}
+{"question": "Amy asked Maria how to make homemade candles to give as gifts. _ knew she had a lot of experience making them.", "context": null, "options": ["Amy", "Maria"], "label": "Amy"}
+{"question": "Patricia liked to lie around in a hammock all day but Megan did not because _ was very sedentary.", "context": null, "options": ["Patricia", "Megan"], "label": "Patricia"}
+{"question": "Hank was eating cereal and spilt milk on his hot pants and decided to get his pleated pants. He needed to change into new leggings because the _ are clean.", "context": null, "options": ["hot pants", "pleated pants"], "label": "pleated pants"}
+{"question": "Sara's cat got fleas so she bought a treatment and put it on the cat's neck. The cat was unhappy and tried to lick it off the _ .", "context": null, "options": ["neck", "treatment"], "label": "neck"}
+{"question": "Derrick always wanted to wash when they woke up but Benjamin rarely bothered. _ was a very dirty person.", "context": null, "options": ["Derrick", "Benjamin"], "label": "Benjamin"}
+{"question": "Derrick always wanted to wash when they woke up but Benjamin rarely bothered. _ was a very clean person.", "context": null, "options": ["Derrick", "Benjamin"], "label": "Derrick"}
+{"question": "Natalie is a forest ranger, Jessica is a cook therefore _ probably can't tell you how to plant your pine tree.", "context": null, "options": ["Natalie", "Jessica"], "label": "Jessica"}
+{"question": "Justin brought a a saw and hammer to prepare making a cupboard for Benjamin because _ is his employer.", "context": null, "options": ["Justin", "Benjamin"], "label": "Benjamin"}
+{"question": "Patricia was on a diet and did not eat the cookies Rebecca baked for her. _ was jealous.", "context": null, "options": ["Patricia", "Rebecca"], "label": "Patricia"}
+{"question": "Kenneth's back is being tended to by Derrick at the office, so _ is the client in this situation.", "context": null, "options": ["Kenneth", "Derrick"], "label": "Kenneth"}
+{"question": "Justin used a stencil on their presentation lettering but Derrick did not. _ had a very sloppy looking presentation.", "context": null, "options": ["Justin", "Derrick"], "label": "Derrick"}
+{"question": "Justin used a stencil on their presentation lettering but Derrick did not. _ had a very neat looking presentation.", "context": null, "options": ["Justin", "Derrick"], "label": "Justin"}
+{"question": "The mirror didn't lie when it showed how overweight Patricia was and how emaciated Felicia was, so _ needed to go on diet.", "context": null, "options": ["Patricia", "Felicia"], "label": "Patricia"}
+{"question": "The stores used posters instead of flyers, because the overall cost of distribution for the _ was cheaper.", "context": null, "options": ["posters", "flyers"], "label": "posters"}
+{"question": "The stores used posters instead of flyers, but the overall cost of distribution for the _ was cheaper.", "context": null, "options": ["posters", "flyers"], "label": "flyers"}
+{"question": "With my ankle sprain, I am not able to put my foot in my shoe because the _ is too fat.", "context": null, "options": ["sprain", "shoe"], "label": "sprain"}
+{"question": "Logan could eat gluten while Adam could not, and _ always had a smaller variety of foods to choose from.", "context": null, "options": ["Logan", "Adam"], "label": "Adam"}
+{"question": "Maria wasn't aware that Erin was coming up behind them, because _ was generally sneaky.", "context": null, "options": ["Maria", "Erin"], "label": "Erin"}
+{"question": "Michael was a better employer than Joel so _ had to worry about retaining employees.", "context": null, "options": ["Michael", "Joel"], "label": "Joel"}
+{"question": "Michael was a better employer than Joel so _ did not have to worry about retaining employees.", "context": null, "options": ["Michael", "Joel"], "label": "Michael"}
+{"question": "James was suffering from nausea and decided to drink ginger tea but the _ was too meek.", "context": null, "options": ["tea", "nausea"], "label": "tea"}
+{"question": "Two friends wanted a tan look but Joel was impatient while Robert wasn't. _ used bronzer to get a tan look.", "context": null, "options": ["Joel", "Robert"], "label": "Joel"}
+{"question": "Playing basketball came easier for Cynthia than Jennifer but _ had more control of their body movements.", "context": null, "options": ["Cynthia", "Jennifer"], "label": "Jennifer"}
+{"question": "Playing basketball came easier for Cynthia than Jennifer but _ had less control of their body movements.", "context": null, "options": ["Cynthia", "Jennifer"], "label": "Cynthia"}
+{"question": "The lady was blushing when she walked passed Amy but not Carrie because _ was intrigued by her.", "context": null, "options": ["Amy", "Carrie"], "label": "Amy"}
+{"question": "Dennis's home just burned down, but luckily Donald's was spared. So, now _ is grateful.", "context": null, "options": ["Dennis", "Donald"], "label": "Donald"}
+{"question": "Megan focused more on proper posture than Lindsey because _ wanted to become a model.", "context": null, "options": ["Megan", "Lindsey"], "label": "Megan"}
+{"question": "Megan focused less on proper posture than Lindsey because _ wanted to become a model.", "context": null, "options": ["Megan", "Lindsey"], "label": "Lindsey"}
+{"question": "Victoria had no issues with Achilles Tendinitis unlike Betty because _ never wore sneakers with cushion.", "context": null, "options": ["Victoria", "Betty"], "label": "Betty"}
+{"question": "Katrina did not value the antique pictures as much as Lindsey because _ was a history buff.", "context": null, "options": ["Katrina", "Lindsey"], "label": "Lindsey"}
+{"question": "Ryan's boil cleared up right away while Christopher's boil got infected due to _ applying medicine later.", "context": null, "options": ["Ryan", "Christopher"], "label": "Christopher"}
+{"question": "Jason went zooming down Brett's street way too fast on his motorcycle, causing _ great excitement.", "context": null, "options": ["Jason", "Brett"], "label": "Jason"}
+{"question": "Angela wanted to find a partner, but Victoria wanted to stay single, because _ was lonely.", "context": null, "options": ["Angela", "Victoria"], "label": "Angela"}
+{"question": "My teeth hurt more after eating the cake than the pie because the _ was not as sweet.", "context": null, "options": ["pie", "cake"], "label": "pie"}
+{"question": "My teeth hurt more after eating the cake than the pie because the _ was sweeter tasting.", "context": null, "options": ["pie", "cake"], "label": "cake"}
+{"question": "On Valentine's Day, Brian receives no flowers, but Kevin gets a lot. _ is probably dating someone.", "context": null, "options": ["Brian", "Kevin"], "label": "Kevin"}
+{"question": "Michael had to learn how to speak Chinese for his job unlike Matthew, because _ worked in China.", "context": null, "options": ["Michael", "Matthew"], "label": "Michael"}
+{"question": "Michael had to learn how to speak Chinese for his job unlike Matthew, because _ worked in England.", "context": null, "options": ["Michael", "Matthew"], "label": "Matthew"}
+{"question": "The boards were used to build the houses instead of the bricks as the _ were sparse.", "context": null, "options": ["boards", "bricks"], "label": "bricks"}
+{"question": "Betty avoided getting attacked in the dark alley where Elena was mugged, because _ ignored their intuition.", "context": null, "options": ["Betty", "Elena"], "label": "Elena"}
+{"question": "The actors practiced the scenes in the parking lot more than the scenes in the morgue, because the _ scenes are full of silence.", "context": null, "options": ["parking lot", "morgue"], "label": "morgue"}
+{"question": "Victoria was interested in babies, but Katrina thought they were annoying, so _ preferred visiting the nursery.", "context": null, "options": ["Victoria", "Katrina"], "label": "Victoria"}
+{"question": "The laws of the government are a lot worse than the rules of schools, because the _ are strict.", "context": null, "options": ["laws", "rules"], "label": "laws"}
+{"question": "The kids at camp liked the activities with water, but avoided the sand, because the _ was cleansed.", "context": null, "options": ["sand", "water"], "label": "water"}
+{"question": "When gambling in Las Vegas, Christine usually bets less playing poker than Elena because _ is more cautious.", "context": null, "options": ["Christine", "Elena"], "label": "Christine"}
+{"question": "Natalie is extremely shy, but Lindsey is good at talking to strangers, which makes _ worse at telemarketing.", "context": null, "options": ["Natalie", "Lindsey"], "label": "Natalie"}
+{"question": "Benjamin thought Android was the superior phone system but Ian thought IOS was better. _ bought a new Note 9 from Verizon.", "context": null, "options": ["Benjamin", "Ian"], "label": "Benjamin"}
+{"question": "Benjamin thought Android was the superior phone system but Ian thought IOS was better. _ bought a new iPhone 9 from Verizon.", "context": null, "options": ["Benjamin", "Ian"], "label": "Ian"}
+{"question": "Jill bought a slip to go with her new skirt but the _ was too short and it hung out the bottom.", "context": null, "options": ["skirt", "slip"], "label": "skirt"}
+{"question": "Jill bought a slip to go with her new skirt but the _ was too long and it hung out the bottom.", "context": null, "options": ["skirt", "slip"], "label": "slip"}
+{"question": "Logan kept a store of ammo in their house but Brian did not as _ approved of hunting.", "context": null, "options": ["Logan", "Brian"], "label": "Logan"}
+{"question": "The floor started to have scratches when people's shoe started dragging on it. The _ was rough.", "context": null, "options": ["floor", "shoe"], "label": "shoe"}
+{"question": "The floor started to have scratches when people's shoe started dragging on it. The _ was smooth.", "context": null, "options": ["floor", "shoe"], "label": "floor"}
+{"question": "Craig made sure to stretch before working out but Christopher never did, so _ frequently got injuries.", "context": null, "options": ["Craig", "Christopher"], "label": "Christopher"}
+{"question": "Elena is concerned that Megan might have a Twitter addiction, but _ is probably worrying about nothing.", "context": null, "options": ["Elena", "Megan"], "label": "Elena"}
+{"question": "Donald was chosen to be a model while Dennis was passed over, because _ was exceptionally tall.", "context": null, "options": ["Donald", "Dennis"], "label": "Donald"}
+{"question": "The flour spills out when we use an ancient family recipe and pour three teacups of flour into our bowl. The _ is too small.", "context": null, "options": ["teacup", "bowl"], "label": "bowl"}
+{"question": "The flour spills out when we use an ancient family recipe and pour three teacups of flour into our bowl. The _ is too big.", "context": null, "options": ["teacup", "bowl"], "label": "teacup"}
+{"question": "The pharmacy offered a product that could cure any disease, made of a new chemical and container, but the _ was not FDA approved.", "context": null, "options": ["chemical", "container"], "label": "chemical"}
+{"question": "The pharmacy offered a product that could cure any disease, made of a new chemical and container, but the _ could hold few drugs.", "context": null, "options": ["chemical", "container"], "label": "container"}
+{"question": "The cracker that was given to me was worse than the cookie, because the _ was stale.", "context": null, "options": ["cracker", "cookie"], "label": "cracker"}
+{"question": "Aria tried to fix the fence in his garden by using new paint and wood, but the _ had termites.", "context": null, "options": ["paint", "wood"], "label": "wood"}
+{"question": "Patricia bought a plant for Natalie to put in her garden, so _ sent a thank you card.", "context": null, "options": ["Patricia", "Natalie"], "label": "Natalie"}
+{"question": "April gets stressed when she goes waterskiing more than swimming. The _ is filled with relaxation for her.", "context": null, "options": ["waterskiing", "swimming"], "label": "swimming"}
+{"question": "I handed the documents over to immigration with the passports, but they only accepted the passports, because the _ were complete.", "context": null, "options": ["documents", "passports"], "label": "passports"}
+{"question": "Patricia is a great nurse and Cynthia is a famous doctor, blood is normal to them, _ get assisted in operations.", "context": null, "options": ["Patricia", "Cynthia"], "label": "Cynthia"}
+{"question": "Logan checked Samuel's garage to see if the car was there. It was missing so _ was gone.", "context": null, "options": ["Logan", "Samuel"], "label": "Samuel"}
+{"question": "Jessica was arrested for growing hemp by the police but not Sarah because _ fled during the field raid.", "context": null, "options": ["Jessica", "Sarah"], "label": "Sarah"}
+{"question": "Jessica was arrested for growing hemp by the police but not Sarah because _ stayed during the field raid.", "context": null, "options": ["Jessica", "Sarah"], "label": "Jessica"}
+{"question": "At the ballgame, Matthew was really thirsty and Aaron was not. _ took his beverage.", "context": null, "options": ["Matthew", "Aaron"], "label": "Matthew"}
+{"question": "Jennifer thought it was important to neuter a dog and Rachel did not because _ knew lots of animals become homeless.", "context": null, "options": ["Jennifer", "Rachel"], "label": "Jennifer"}
+{"question": "Joseph loved to smoke cigarettes while Derrick did not although _ hated to use a hookah.", "context": null, "options": ["Joseph", "Derrick"], "label": "Joseph"}
+{"question": "The woman didn't need an apprasial for the desk, but wondered how much the table was worth, because the _ appeared to be common.", "context": null, "options": ["desk", "table"], "label": "desk"}
+{"question": "John could not hear his alarm clock when he was sleeping with a headphone on his head because the _ is closer.", "context": null, "options": ["headphone", "clock"], "label": "headphone"}
+{"question": "John could not hear his alarm clock when he was sleeping with a headphone on his head because the _ is farther.", "context": null, "options": ["headphone", "clock"], "label": "clock"}
+{"question": "The teacher was helping us study carpentry instead of studying the cooking today. The _ was mandatory.", "context": null, "options": ["carpentry", "cooking"], "label": "carpentry"}
+{"question": "Emily was nine months pregnant but Tanya was not pregnant at all. _ had a beautiful baby girl.", "context": null, "options": ["Emily", "Tanya"], "label": "Emily"}
+{"question": "Ryan ordered the salad with added avocado, but Randy passed, because _ wasn't ok with the $3 upcharge.", "context": null, "options": ["Ryan", "Randy"], "label": "Randy"}
+{"question": "Ryan ordered the salad with added avocado, but Randy passed, because _ was ok with the $3 upcharge.", "context": null, "options": ["Ryan", "Randy"], "label": "Ryan"}
+{"question": "Tanya was an adult while Samantha was young and still had room to grow , so _ gave her her old clothes.", "context": null, "options": ["Tanya", "Samantha"], "label": "Tanya"}
+{"question": "Tanya was an adult while Samantha was young and still had room to grow , so _ took her old clothes.", "context": null, "options": ["Tanya", "Samantha"], "label": "Samantha"}
+{"question": "The hiking group had more food than water, so they tried to conserve the _ .", "context": null, "options": ["water", "food"], "label": "water"}
+{"question": "The hiking group had less food than water, so they tried to conserve the _ .", "context": null, "options": ["water", "food"], "label": "food"}
+{"question": "Mary used the lotion instead of the cream because her skin was glowing when she used the _ .", "context": null, "options": ["cream", "lotion"], "label": "lotion"}
+{"question": "I wore the pants and the shirt together, but got more compliments on the _ because the shirt was uglier.", "context": null, "options": ["shirt", "pants"], "label": "pants"}
+{"question": "John cannot listen to his music with the volume of the television his cousin is watching. The _ is quiet.", "context": null, "options": ["television", "music"], "label": "music"}
+{"question": "The honey flows out slower from the bottle than the oil. The _ is viscous.", "context": null, "options": ["honey", "oil"], "label": "honey"}
+{"question": "Lawrence volunteered to donate blood to help others, but Steven was unable to, since _ was healthy.", "context": null, "options": ["Lawrence", "Steven"], "label": "Lawrence"}
+{"question": "Reading poetry and rhymes was very entertaining for Derrick but boring for Logan, since _ was a mathematician.", "context": null, "options": ["Derrick", "Logan"], "label": "Logan"}
+{"question": "Laura never feared anything like Erin because _ didn't have a very strong and very powerful mind.", "context": null, "options": ["Laura", "Erin"], "label": "Erin"}
+{"question": "Laura never feared anything like Erin because _ had a very strong and very powerful mind.", "context": null, "options": ["Laura", "Erin"], "label": "Laura"}
+{"question": "The farmer had more corn to harvest than yams because his cows liked eating the _ .", "context": null, "options": ["yams", "corn"], "label": "yams"}
+{"question": "The farmer had more corn to harvest than yams because his cows hated eating the _ .", "context": null, "options": ["yams", "corn"], "label": "corn"}
+{"question": "Adam asked Dennis to always remember to flush the toilet because _ doesn't flush it.", "context": null, "options": ["Adam", "Dennis"], "label": "Dennis"}
+{"question": "Christine knew how to make wings with better flavor than Maria, so _ waited for supper.", "context": null, "options": ["Christine", "Maria"], "label": "Maria"}
+{"question": "The shoddy bridge held secure for when the cars were getting passengers across the town to their destinations on time. However the _ were cautious.", "context": null, "options": ["passengers", "cars"], "label": "passengers"}
+{"question": "The shoddy bridge held secure for when the cars were getting passengers across the town to their destinations on time. However the _ were racing.", "context": null, "options": ["passengers", "cars"], "label": "cars"}
+{"question": "Buying a swimming pool was great for Adam but not for Christopher because _ had a large back yard.", "context": null, "options": ["Adam", "Christopher"], "label": "Adam"}
+{"question": "Ann liked using oil paint rather than acrylic on canvas because _ had a shortened working time.", "context": null, "options": ["acrylic", "oil"], "label": "acrylic"}
+{"question": "Cynthia was happy to give Patricia the politics section of the newspaper, because _ had little interest in the election results.", "context": null, "options": ["Cynthia", "Patricia"], "label": "Cynthia"}
+{"question": "Only the bag got melted and not the wood when they were inside the flame. The _ is soft.", "context": null, "options": ["wood", "bag"], "label": "bag"}
+{"question": "Only the bag got melted and not the wood when they were inside the flame. The _ is hard.", "context": null, "options": ["wood", "bag"], "label": "wood"}
+{"question": "Carrie always arrived to work after Cynthia, as _ had a shorter driving commute in the mornings.", "context": null, "options": ["Carrie", "Cynthia"], "label": "Cynthia"}
+{"question": "Amy left smears all over the surface after cleaning Kayla's sink, because _ didn't supervise very much.", "context": null, "options": ["Amy", "Kayla"], "label": "Kayla"}
+{"question": "Brian could learn to swim with the right instruction, but it was hard to tell whether lifeguard Matthew was qualified to provide it, since _ had never swum before.", "context": null, "options": ["Brian", "Matthew"], "label": "Brian"}
+{"question": "I slowly poured the milk over my bowl of cereal until the _ was gone.", "context": null, "options": ["milk", "cereal"], "label": "milk"}
+{"question": "They disagreed over what dog to adopt as Mary wanted a yorkie while Maria wanted a labrador. _ loved small dogs.", "context": null, "options": ["Mary", "Maria"], "label": "Mary"}
+{"question": "Devin got sick after eating the sausage, so he laid on the couch and later moved to the bed because the _ was more comfortable.", "context": null, "options": ["couch", "bed"], "label": "bed"}
+{"question": "Jennifer has more money than Amy, so _ became a homeowner at a young age.", "context": null, "options": ["Jennifer", "Amy"], "label": "Jennifer"}
+{"question": "Michael had a unhappy relationship and was jealous because Lawrence had a great one only to find out the reason was _ slacked in adhering to standard marriage advice.", "context": null, "options": ["Michael", "Lawrence"], "label": "Michael"}
+{"question": "The salesman would only feature nice things in the house like the pool but not the wiring because the _ was fine.", "context": null, "options": ["pool", "wiring"], "label": "pool"}
+{"question": "The boxes were too heavy for Benjamin to carry alone, so he asked Matthew for help. After he said yes, _ felt regret.", "context": null, "options": ["Benjamin", "Matthew"], "label": "Matthew"}
+{"question": "Jasmine wanted to put the emerald on the ring but it would not fit. The _ was minuscule.", "context": null, "options": ["emerald", "ring"], "label": "ring"}
+{"question": "Jasmine wanted to put the emerald on the ring and it would not fit. The _ was colossal.", "context": null, "options": ["emerald", "ring"], "label": "emerald"}
+{"question": "John was glad the file was kept in the box before the fire outbreak started because the _ is inflammable.", "context": null, "options": ["box", "file"], "label": "box"}
+{"question": "Sandra tried out a new conditioner for her hair that makes it curly, but was upset with the results because the _ was too straight.", "context": null, "options": ["conditioner", "hair"], "label": "hair"}
+{"question": "Sandra tried out a new conditioner for her hair that makes it curly, but was upset with the results because the _ was too mild.", "context": null, "options": ["conditioner", "hair"], "label": "conditioner"}
+{"question": "Patricia had to pay less tax than Cynthia because _ made more money in the year.", "context": null, "options": ["Patricia", "Cynthia"], "label": "Cynthia"}
+{"question": "Patricia had to pay less tax than Cynthia because _ made less money in the year.", "context": null, "options": ["Patricia", "Cynthia"], "label": "Patricia"}
+{"question": "Brian's plants are showing a lot more growth than Logan's, because _ used better fertilizer.", "context": null, "options": ["Brian", "Logan"], "label": "Brian"}
+{"question": "James always feel weak whenever he walked the length of his street so he decided walking just the length of the lawn. The _ is long.", "context": null, "options": ["street", "lawn"], "label": "street"}
+{"question": "James always feel weak whenever he walked the length of his street so he decided walking just the length of the lawn. The _ is short.", "context": null, "options": ["street", "lawn"], "label": "lawn"}
+{"question": "The living room was cleaner than the kitchen, because we spend leess time in in the _ .", "context": null, "options": ["living room", "kitchen"], "label": "living room"}
+{"question": "The living room was cleaner than the kitchen, because we spend more time in the the _ .", "context": null, "options": ["living room", "kitchen"], "label": "kitchen"}
+{"question": "The girl broke Leslie's heart but not Kenneth's because _ was never in love with her.", "context": null, "options": ["Leslie", "Kenneth"], "label": "Kenneth"}
+{"question": "The girl broke Leslie's heart but not Kenneth's because _ used to be in love with her.", "context": null, "options": ["Leslie", "Kenneth"], "label": "Leslie"}
+{"question": "Monica suspected that Rebecca had become an alcoholic, but _ predicted an intervention to address the problem.", "context": null, "options": ["Monica", "Rebecca"], "label": "Rebecca"}
+{"question": "The skateboard got broken under the weight of the fat boy and his luggage. The _ is light.", "context": null, "options": ["skateboard", "weight"], "label": "skateboard"}
+{"question": "Lawrence was always gaining weight while Dennis was losing it as _ liked to eat too little.", "context": null, "options": ["Lawrence", "Dennis"], "label": "Dennis"}
+{"question": "The stone still thudded on the floor even though it was dropped on the pillow. The _ is too light.", "context": null, "options": ["stone", "pillow"], "label": "pillow"}
+{"question": "Rachel touches the cool looking bulletproof vest of Kayla due to _ being on an investigation.", "context": null, "options": ["Rachel", "Kayla"], "label": "Kayla"}
+{"question": "Rachel touches the cool looking bulletproof vest of Kayla due to _ being on a ride along.", "context": null, "options": ["Rachel", "Kayla"], "label": "Rachel"}
+{"question": "Remodeling the kitchen came naturally to Michael but not William because _ had experience being a carpenter's apprentice.", "context": null, "options": ["Michael", "William"], "label": "Michael"}
+{"question": "Selena wanted the hairdresser to cut her hair with a razor instead of a clipper, because the _ always gave an edgier look.", "context": null, "options": ["clipper", "razor"], "label": "razor"}
+{"question": "Neil cut trees down into lumber every year unlike Logan because _ lives in the city.", "context": null, "options": ["Neil", "Logan"], "label": "Logan"}
+{"question": "Neil cut trees down into lumber every year unlike Logan because _ lives out in the countryside.", "context": null, "options": ["Neil", "Logan"], "label": "Neil"}
+{"question": "We couldn't extract the blood but got the plasma out, since the _ was reachable by the needle.", "context": null, "options": ["blood", "plasma"], "label": "plasma"}
+{"question": "Happiness was most important to Nick but money was most important to William. _ valued a good life.", "context": null, "options": ["Nick", "William"], "label": "Nick"}
+{"question": "The sound of the foot was clearly audible from the street because the _ is quiet.", "context": null, "options": ["street", "sound"], "label": "street"}
+{"question": "To remove the stain he reached for soap first, then got up and got a bowl.  The _ was close by.", "context": null, "options": ["soap", "bowl"], "label": "soap"}
+{"question": "To remove the stain he reached for soap first, then got up and got a bowl.  The _ was far away.", "context": null, "options": ["soap", "bowl"], "label": "bowl"}
+{"question": "Kyle asked Brett for some tips on healthy eating because _ has recently lost weight.", "context": null, "options": ["Kyle", "Brett"], "label": "Brett"}
+{"question": "The architect tried to build the room inside the house but the _ was too large.", "context": null, "options": ["house", "room"], "label": "room"}
+{"question": "The architect tried to build the room inside the house but the _ was too small.", "context": null, "options": ["house", "room"], "label": "house"}
+{"question": "William was a huge animal rights activist but Randy couldn't care less so _ hated leather.", "context": null, "options": ["William", "Randy"], "label": "William"}
+{"question": "William was a huge animal rights activist but Randy couldn't care less so _ loved leather.", "context": null, "options": ["William", "Randy"], "label": "Randy"}
+{"question": "The school needed a new auditorium and a new teacher's lounge.  They built the _ first because it benefited the faculty more.", "context": null, "options": ["auditorium", "teacher's lounge"], "label": "teacher's lounge"}
+{"question": "The cashier was trained that real $100 bills had sharp lines and counterfeit ones might be blurry, so she accepted the _ bill.", "context": null, "options": ["sharp", "blurry"], "label": "sharp"}
+{"question": "The pressure of finding new jobs is harder than finding new apartments. The _ are high in numbers.", "context": null, "options": ["jobs", "apartments"], "label": "apartments"}
+{"question": "She couldn't wear the bra, unlike the shirt, because the _ was the right size.", "context": null, "options": ["bra", "shirt"], "label": "shirt"}
+{"question": "Maria wanted to play poker with Jennifer because _ was a better player and she won a lot of money.", "context": null, "options": ["Maria", "Jennifer"], "label": "Maria"}
+{"question": "Angela was a homebody while Amy loved to travel the world whenever they could. _ took a vacation to the beach over the summer.", "context": null, "options": ["Angela", "Amy"], "label": "Amy"}
+{"question": "Angela was a homebody while Amy loved to travel the world whenever they could. _ took a staycation at home over the summer.", "context": null, "options": ["Angela", "Amy"], "label": "Angela"}
+{"question": "Kenneth was really scared to have surgery but Neil was very brave about it. _ was under a lot of stress.", "context": null, "options": ["Kenneth", "Neil"], "label": "Kenneth"}
+{"question": "Joel went to Michael 's house and consumed a lot of alcohol, so _ had to ride back home as a passenger.", "context": null, "options": ["Joel", "Michael"], "label": "Joel"}
+{"question": "At the new restaurant, Betty convinced Lindsey to try fried brussel sprouts.  _ was relieved when she tried new things.", "context": null, "options": ["Betty", "Lindsey"], "label": "Betty"}
+{"question": "Jane received a pet tortoise and an aquarium as a birthday gift, but the _ was too small.", "context": null, "options": ["aquarium", "tortoise"], "label": "aquarium"}
+{"question": "She chose the black car over the green car, because the _ has more brighter color.", "context": null, "options": ["black car", "green car"], "label": "green car"}
