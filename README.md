@@ -2,12 +2,15 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat-square)](http://makeapullrequest.com)
 [![arXiv](https://img.shields.io/badge/arXiv-2110.08454-b31b1b.svg)]()
 
-This repo provides the model, code & data of our paper: [Making Large Language Models Better Data Creators]() (EMNLP 2023).
-[[PDF]]()
+This repo provides the model, code & data of our paper: "Making Large Language Models Better Data Creators" (EMNLP 2023).
 
 ## Overview
-An LLM-based data creation framework that requires only a single formatting exemplar (e.g., Multiple-choice QA, Open-book QA, Closed-book QA).
-Iterative data creation process ensures the development of robust training data for certain downstream task, facilitating the training of powerful small models.
+**LLM Data Creation** is the process of using a Large Language Model to generate synthetic data for a downstream application.
+
+Our framework enables data creation with LLMs using only one formatting example (e.g., Multiple-choice QA, Open-book QA, Closed-book QA) as an input. 
+The process then generates more data in the same format as the input using an iterative process.
+
+It is used to generate data for training smaller task-specific models, such as linear regressors or neural models, in scenarios where there is a lack of human labeled training data.
 
 ## Table of contents
 
@@ -90,10 +93,22 @@ Iterative data creation process ensures the development of robust training data 
       --setting
     ```
 ### Fine-tune Smaller Model
-After data creation, you can train smaller model as follow:
+After data creation, you can train and evaluate the smaller model as follow:
 ```bash
 ./script/train.sh {data_dir} {data_name} {setting} {learning_rate} {output_directory}
 ```
+
+## Evaluation
+LLM Data Creation was evaluated on 10 publicly available benchmark datasets, comparing smaller models trained on its generated data against other data generation approaches, and human labeled data. The results show that LLM Data Creation performs even better than human labeled data in cross-domain settings, while maintaining comparable performance on in-domain tasks. More details of the model, evaluation, metrics and findings can be found in our paper: "Making Large Language Models Better Data Creators" (EMNLP 2023)
+
+## Tips
+- The choice of input formatting example is left to the user, and it’s choice impacts both the domain and content of created data, since the system bootstraps from this one example to create more data.
+- Other settings of the LLM, such as temperature and top_p can also control the outputs of LLM Data Creation. While we set both to 1 in our experiments in order to encourage maximum creativity, smaller values may be appropriate strategies – along with other risk mitigation strategies like prompt guardrails and data post-processing and validation – for ensuring output data quality (at the cost of diversity).
+
+## Risks and Limitations
+The potential for generating harmful, false or biased responses using LLM Data Creation are no different than those inherent to the underlying LLM being used to generate the data. 
+Users should understand these risks and limitations when using this system to create data for downstream applications. 
+Instructing the LLM with guardrails to minimize the risks of generating harmful, false or biased responses, as well as employing post-processing techniques to check, filter and sanitize the data may help mitigate the problems with data created with this system.
 
 ## Citation
 If you find our work helpful, please cite the following:
